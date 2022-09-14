@@ -3,7 +3,7 @@ import React from "react";
 const Contact = () => {
     return (
         <div
-            className="mx-auto flex h-screen w-screen flex-col items-center pt-14"
+            className="mx-auto flex h-full w-screen flex-col items-center pt-14"
             id="contact-page"
         >
             <h1 className="text-3xl font-thin text-white">Contact Us</h1>
@@ -40,7 +40,7 @@ const Contact = () => {
                     ></input>
                     <button
                         // onClick={handleSubmit}
-                        className="flex items-center rounded-md border border-amber-500 px-10 py-3 text-white duration-150 hover:border-black/0 hover:bg-amber-500 hover:text-white lg:w-full lg:justify-center"
+                        className="flex w-[50%] items-center justify-center rounded-md border border-amber-500 px-10 py-3 text-white duration-150 hover:border-black/0 hover:bg-amber-500 hover:text-white lg:w-full"
                     >
                         Send
                     </button>

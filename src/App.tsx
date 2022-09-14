@@ -1,6 +1,8 @@
 import React from "react";
 
+// import
 import Header from "./components/Header";
+import Footer from "./components/Footer";
 import Home from "./pages/Home";
 import Contact from "./pages/Contact";
 import Catalog from "./pages/Catalog";
@@ -20,6 +22,7 @@ function App() {
                     <Route path="/cart" element={<Cart />} />
                 </Routes>
             </main>
+            <Footer />
         </div>
     );
 }

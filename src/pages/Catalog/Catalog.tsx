@@ -2,14 +2,14 @@ import React from "react";
 
 import CatalogGrid from "./CatalogGrid";
 
-import Hero from "../../components/Hero";
+// import Hero from "../../components/Hero";
 
-const title = "Fall Collection";
+const title = "Collections";
 
 const Catalog = () => {
     return (
         <div
-            className="mx-auto flex h-screen w-screen flex-col items-center pt-14"
+            className="mx-auto flex h-full w-screen flex-col items-center pt-14"
             id="catalog-page"
         >
             {/* <Hero /> */}
