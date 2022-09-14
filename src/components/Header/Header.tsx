@@ -2,16 +2,27 @@ import React, { useState } from "react";
 
 // import logo from "../../assets/images/logo.png";
 import MonkeFill from "../../assets/images/MonkeFill";
-
 import navData from "../../assets/data/navData";
-
 import { Link } from "react-router-dom";
+import useScrollPosition from "../../hooks/useScrollPosition";
+
+function classNames(...classes: string[]) {
+    return classes.filter(Boolean).join(" ");
+}
 
 const Header = () => {
     const [nav, setNav] = useState(false);
     const handleNav = () => setNav(!nav);
+    const scrollPosition = useScrollPosition();
     return (
-        <nav className="fixed top-0 z-50 h-32 w-full border-b bg-black drop-shadow-xl duration-150 lg:h-20">
+        <nav
+            className={classNames(
+                scrollPosition > 25
+                    ? "border-transparent bg-black/75 backdrop-blur-lg"
+                    : "border-b border-white bg-black",
+                "fixed top-0 z-50 h-32 w-full border-b duration-150 lg:h-20 "
+            )}
+        >
             <div className="relative mx-auto flex h-full w-full max-w-7xl items-center">
                 {/* Logo */}
                 <>
@@ -27,7 +38,7 @@ const Header = () => {
                 </>
                 {/* Header Links */}
                 <>
-                    <ul className="absolute right-0 hidden h-full items-center duration-150 lg:flex lg:flex">
+                    <ul className="absolute right-0 hidden h-full items-center duration-150 lg:flex">
                         {navData.map((link, index) => {
                             return (
                                 <li

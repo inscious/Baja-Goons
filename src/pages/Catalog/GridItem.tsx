@@ -10,7 +10,7 @@ interface ItemProps {
 const GridItem = (props: ItemProps) => {
     return (
         <div
-            className="group h-full w-full overflow-hidden duration-150 hover:bg-gray-100/50 lg:hover:scale-105 backdrop-blur-xl"
+            className="group w-full overflow-hidden backdrop-blur-xl duration-150 hover:bg-gray-100/50 lg:hover:scale-105"
             id="grid-item"
         >
             <div className="">
@@ -21,10 +21,10 @@ const GridItem = (props: ItemProps) => {
                 />
             </div>
             <div className="flex flex-col items-start">
-                <h1 className="text-md mt-3 px-5 font-medium text-white duration-150 group-hover:text-">
+                <h1 className="text-md group-hover:text- mt-3 px-5 font-medium text-white duration-150">
                     {props.title}
                 </h1>
-                <h2 className="px-5 text-sm font-thin text-white duration-150 group-hover:text-">
+                <h2 className="group-hover:text- px-5 text-sm font-thin text-white duration-150">
                     {props.price}
                 </h2>
             </div>

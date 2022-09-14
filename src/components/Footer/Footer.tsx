@@ -1,6 +1,6 @@
 import React from "react";
 
-// import { AiOutlineInstagram } from "react-icons/ai";
+import { AiOutlineInstagram } from "react-icons/ai";
 import { footerListOne, footerListTwo } from "../../assets/data/footerData";
 import { Link } from "react-router-dom";
 
@@ -60,6 +60,9 @@ const Footer = () => {
                             </div>
                         </form>
                     </>
+                </div>
+                <div>
+                    <AiOutlineInstagram className="fill-white" />
                 </div>
             </div>
         </div>
