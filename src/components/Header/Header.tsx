@@ -1,21 +1,17 @@
 import React, { useState } from "react";
 
-import logo from "../../assets/images/logo.png";
-import MonkeOutline from "../../assets/images/MonkeOutline";
+// import logo from "../../assets/images/logo.png";
 import MonkeFill from "../../assets/images/MonkeFill";
 
 import navData from "../../assets/data/navData";
 
 import { Link } from "react-router-dom";
 
-import { HiMenuAlt3 } from "react-icons/hi";
-import { GrClose } from "react-icons/gr";
-
 const Header = () => {
     const [nav, setNav] = useState(false);
     const handleNav = () => setNav(!nav);
     return (
-        <nav className="fixed z-50 h-32 w-full bg-black duration-150 lg:h-20">
+        <nav className="fixed top-0 z-50 h-32 w-full border-b bg-black drop-shadow-xl duration-150 lg:h-20">
             <div className="relative mx-auto flex h-full w-full max-w-7xl items-center">
                 {/* Logo */}
                 <>
@@ -31,7 +27,7 @@ const Header = () => {
                 </>
                 {/* Header Links */}
                 <>
-                    <ul className="absolute right-0 h-full items-center opacity-0 duration-150 lg:flex lg:opacity-100">
+                    <ul className="absolute right-0 hidden h-full items-center duration-150 lg:flex lg:flex">
                         {navData.map((link, index) => {
                             return (
                                 <li

@@ -10,7 +10,7 @@ const MonkeFill = () => {
                 x="0px"
                 y="0px"
                 viewBox="0 0 1000 1000"
-                enable-background="new 0 0 1000 1000"
+                enableBackground="new 0 0 1000 1000"
                 className="h-24 duration-150 lg:h-16"
             >
                 <g id="Layer_x0020_1" display="none">
@@ -18,18 +18,18 @@ const MonkeFill = () => {
                         <rect
                             x="44.612"
                             y="2.132"
-                            fill-rule="evenodd"
-                            clip-rule="evenodd"
+                            fillRule="evenodd"
+                            clipRule="evenodd"
                             stroke="url(#SVGID_1_)"
-                            stroke-width="0.4997"
-                            stroke-miterlimit="10"
+                            strokeWidth="0.4997"
+                            strokeMiterlimit="10"
                             width="931.364"
                             height="995.001"
                         />
                         <g>
                             <path
-                                fill-rule="evenodd"
-                                clip-rule="evenodd"
+                                fillRule="evenodd"
+                                clipRule="evenodd"
                                 fill="#010101"
                                 d="M150.174,891.917l2.314,0.258
 				c0.254,1.566,0.314,1.339-0.276,2.503c0.222,7.641-6.647,18.431-12.823,22.891c-3.345,2.415-8.46,5.066-13.938,3.379
@@ -478,8 +478,8 @@ const MonkeFill = () => {
                             />
                             <path
                                 display="none"
-                                fill-rule="evenodd"
-                                clip-rule="evenodd"
+                                fillRule="evenodd"
+                                clipRule="evenodd"
                                 fill="#FFFFFF"
                                 d="M369.728,897.59
 				c-5.802-1.598-9.712-21.446-9.585-29.195c0.158-9.647,3.95-25.034,10.823-27.648c0.066,0.1,0.137,0.24,0.17,0.316l0.395,0.979
@@ -641,8 +641,8 @@ const MonkeFill = () => {
                             />
                             <path
                                 display="none"
-                                fill-rule="evenodd"
-                                clip-rule="evenodd"
+                                fillRule="evenodd"
+                                clipRule="evenodd"
                                 fill="#FFFFFF"
                                 d="M234.343,238.982
 				c0.485-6.089,8.93-17.888,14.13-22.375c7.275-6.277,12.519-9.564,16.864-19.818c1.724-4.069,4.633-15.516,7.973-17.154
@@ -724,8 +724,8 @@ const MonkeFill = () => {
                             />
                             <path
                                 display="none"
-                                fill-rule="evenodd"
-                                clip-rule="evenodd"
+                                fillRule="evenodd"
+                                clipRule="evenodd"
                                 fill="#FFFFFF"
                                 d="M800.013,481.619l-0.299,0.341
 				c0.774,3.673,2.717,7.755,3.899,11.333c4.352,13.173,3.227,27.115-0.551,40.04c-4.77,16.313-15.28,25.581-19.598,41.09
@@ -888,8 +888,8 @@ const MonkeFill = () => {
                             />
                             <path
                                 display="none"
-                                fill-rule="evenodd"
-                                clip-rule="evenodd"
+                                fillRule="evenodd"
+                                clipRule="evenodd"
                                 fill="#FFFFFF"
                                 d="M812.348,291.123
 				c-0.036-1.989,0.046-0.784-0.41-1.251c-9.238,10.397-16.892,20.415-30.057,27.939c-6.664,3.809-12.897,5.971-21.192,7.605
@@ -916,8 +916,8 @@ const MonkeFill = () => {
                             />
                             <path
                                 display="none"
-                                fill-rule="evenodd"
-                                clip-rule="evenodd"
+                                fillRule="evenodd"
+                                clipRule="evenodd"
                                 fill="#FFFFFF"
                                 d="M458.819,677.036
 				c-0.471-6.207,0.946-12.239,2.96-17.371c1.451-3.697,5.411-10.944,8.385-11.731C475.166,657.754,467.292,676.417,458.819,677.036
@@ -942,8 +942,8 @@ const MonkeFill = () => {
                             />
                             <path
                                 display="none"
-                                fill-rule="evenodd"
-                                clip-rule="evenodd"
+                                fillRule="evenodd"
+                                clipRule="evenodd"
                                 fill="#FFFFFF"
                                 d="M174.948,406.389
 				c7.704-2.818,5.263-6.43,23.297-9.023c4.789-0.689,10.215-1.282,15.114-1.234c6.083,0.06,8.306,1.508,13.174,3.18
@@ -962,8 +962,8 @@ const MonkeFill = () => {
                             />
                             <path
                                 display="none"
-                                fill-rule="evenodd"
-                                clip-rule="evenodd"
+                                fillRule="evenodd"
+                                clipRule="evenodd"
                                 fill="#FFFFFF"
                                 d="M707.569,232.213
 				c-0.714-11.409-9.103-27.706-17.156-34.889c-1.332-1.188-3.373-2.076-2.569-4.619c6.206-2.313,16.895,5.446,20.625,9.276
@@ -975,8 +975,8 @@ const MonkeFill = () => {
                             />
                             <path
                                 display="none"
-                                fill-rule="evenodd"
-                                clip-rule="evenodd"
+                                fillRule="evenodd"
+                                clipRule="evenodd"
                                 fill="#FFFFFF"
                                 d="M186.316,823.904
 				c0.094,0.697-0.102,0.517,0.612,0.517l60.611-68.115c2.444-3.119,18.333-21.031,21.426-23.558
@@ -989,8 +989,8 @@ const MonkeFill = () => {
                             />
                             <path
                                 display="none"
-                                fill-rule="evenodd"
-                                clip-rule="evenodd"
+                                fillRule="evenodd"
+                                clipRule="evenodd"
                                 fill="#FFFFFF"
                                 d="M790.737,232.662
 				c-3.477-0.565-4.785-5.18-7.644-10.13c-6.007-10.405-8.236-12.343-17.658-18.139c-3.112-1.914-7.963-5.254-11.146-6.694
@@ -1003,8 +1003,8 @@ const MonkeFill = () => {
                             />
                             <path
                                 display="none"
-                                fill-rule="evenodd"
-                                clip-rule="evenodd"
+                                fillRule="evenodd"
+                                clipRule="evenodd"
                                 fill="#FFFFFF"
                                 d="M157.085,578.725
 				c2.795-3.202,6.006-16.661,7.158-21.87l1.964-8.214c5.704,3.614,2.991,30.688-1.221,39.945
@@ -1020,8 +1020,8 @@ const MonkeFill = () => {
 				L157.085,578.725z"
                             />
                             <path
-                                fill-rule="evenodd"
-                                clip-rule="evenodd"
+                                fillRule="evenodd"
+                                clipRule="evenodd"
                                 fill="#010101"
                                 d="M544.815,456.033l0.768,0.972
 				c-1.683,0.134-2.283,0.219-3.504-0.468c-9.959,0.759-64.762-12.826-72.381-10.529c-0.262,0.502-0.325,0.219-0.167,1.129
@@ -1033,8 +1033,8 @@ const MonkeFill = () => {
 				c4.48,6.156,10.3,9.494,16.919,13.765l19.519,11.875L544.815,456.033z"
                             />
                             <path
-                                fill-rule="evenodd"
-                                clip-rule="evenodd"
+                                fillRule="evenodd"
+                                clipRule="evenodd"
                                 fill="#010101"
                                 d="M602.044,423.789l2.059,0.125
 				c0.564-0.509,0.771,0.771,0.357-0.803c-1.978-8.81-10.61-15.085-18.779-17.96c-10.25-3.606-19.285-4.766-30.484-6.652
@@ -1048,8 +1048,8 @@ const MonkeFill = () => {
                             />
                             <path
                                 display="none"
-                                fill-rule="evenodd"
-                                clip-rule="evenodd"
+                                fillRule="evenodd"
+                                clipRule="evenodd"
                                 fill="#FFFFFF"
                                 d="M458.311,566.732
 				c-0.188-0.273-0.444-0.699-0.724-1.039c-10.028-0.552-24.377-8.988-40.377,4.411c-14.696,12.306-11.806,21.724-16.371,34.753
@@ -1063,8 +1063,8 @@ const MonkeFill = () => {
 				c4.312-7.37,5.906-12.804,12.363-16.835L458.311,566.732z"
                             />
                             <path
-                                fill-rule="evenodd"
-                                clip-rule="evenodd"
+                                fillRule="evenodd"
+                                clipRule="evenodd"
                                 fill="#010101"
                                 d="M369.283,482.545c-0.405-0.77,0.713-0.675-0.836-0.531
 				l-23.946,15.376l-6.44,6.645c-2.041,2.226-6.454,7.738-8.699,8.802c0.053-4.001,1.381-8.869,1.789-13.038
@@ -1076,8 +1076,8 @@ const MonkeFill = () => {
 				c2.406-3.045,4.516-4.325,6.844-7.879L369.283,482.545z"
                             />
                             <path
-                                fill-rule="evenodd"
-                                clip-rule="evenodd"
+                                fillRule="evenodd"
+                                clipRule="evenodd"
                                 fill="#010101"
                                 d="M458.568,801.308c-0.042,1.357-0.169,0.722,1.446,0.615
 				c3.793-0.079,15.211-5.715,18.445-7.661c10.233-6.159,18.459-18.35,24.845-28.422c3.528-5.565,6.831-10.697,10.553-16.082
@@ -1089,8 +1089,8 @@ const MonkeFill = () => {
                             />
                             <path
                                 display="none"
-                                fill-rule="evenodd"
-                                clip-rule="evenodd"
+                                fillRule="evenodd"
+                                clipRule="evenodd"
                                 fill="#FFFFFF"
                                 d="M774.01,406.376l-0.478,0.491
 				c1.124,9.785,16.478,27.048,25.333,32.212c2.582,1.506,5.038,2.555,7.598,4.191c33.154,21.176,7.558,54.047,24.189,78.863
@@ -1102,8 +1102,8 @@ const MonkeFill = () => {
                             />
                             <path
                                 display="none"
-                                fill-rule="evenodd"
-                                clip-rule="evenodd"
+                                fillRule="evenodd"
+                                clipRule="evenodd"
                                 fill="#FFFFFF"
                                 d="M646.42,653.113
 				c0.024,12.321,2.94,21.476,6.077,32.389c1.359,4.726,2.791,10.314,4.797,14.412c1.576,3.219,5.931,9.9,5.968,13.289
@@ -1115,8 +1115,8 @@ const MonkeFill = () => {
                             />
                             <path
                                 display="none"
-                                fill-rule="evenodd"
-                                clip-rule="evenodd"
+                                fillRule="evenodd"
+                                clipRule="evenodd"
                                 fill="#FFFFFF"
                                 d="M729.507,436.925l-0.469,0.323
 				c0.527,5.354,6.315,16.292,8.716,20.606c9.978,17.933,25.034,16.275,35.154,38.202c1.586,3.436,2.291,7.42,3.873,10.604
@@ -1130,8 +1130,8 @@ const MonkeFill = () => {
                             />
                             <path
                                 display="none"
-                                fill-rule="evenodd"
-                                clip-rule="evenodd"
+                                fillRule="evenodd"
+                                clipRule="evenodd"
                                 fill="#FFFFFF"
                                 d="M359.23,388.529l0.417-1.072
 				c-1.195-4.665-3.752-8.069-4.353-13.419c-1.071-9.539,2.803-14.441,6.8-19.773c8.14-10.86,12.169-14.099,26.008-18.964
@@ -1142,8 +1142,8 @@ const MonkeFill = () => {
                             />
                             <path
                                 display="none"
-                                fill-rule="evenodd"
-                                clip-rule="evenodd"
+                                fillRule="evenodd"
+                                clipRule="evenodd"
                                 fill="#FFFFFF"
                                 d="M684.288,487.318l-0.326,0.41
 				c0.807,2.483,5.833,10.194,8.294,16.069c4.826,11.52,15.425,56.01,8.666,60.459c-1.948-2.48-2.911-11.083-4.032-14.872
@@ -1153,8 +1153,8 @@ const MonkeFill = () => {
 				c3.862-22.567-4.301-39.008-15.563-56.281c-3.531-5.415-12.71-18.364-17.875-19.672L684.288,487.318z"
                             />
                             <path
-                                fill-rule="evenodd"
-                                clip-rule="evenodd"
+                                fillRule="evenodd"
+                                clipRule="evenodd"
                                 fill="#010101"
                                 d="M305.107,176.266c-0.239,2.02-0.218,0.658,0.354,1.22
 				c3.369-1.35,3.269-5.055,11.986-8.937c10.994-4.896,17.718-5.016,29.073-13.275c1.843-1.34,4.646-3.277,5.918-4.571
@@ -1166,8 +1166,8 @@ const MonkeFill = () => {
                             />
                             <path
                                 display="none"
-                                fill-rule="evenodd"
-                                clip-rule="evenodd"
+                                fillRule="evenodd"
+                                clipRule="evenodd"
                                 fill="#FFFFFF"
                                 d="M732.339,557.452
 				c0.446,4.346-2.164,14.466-2.965,19.197c-1.148,6.781-1.303,14.396-1.294,21.442c0.019,15.487,2.627,24.471,7.701,37.295
@@ -1177,8 +1177,8 @@ const MonkeFill = () => {
                             />
                             <path
                                 display="none"
-                                fill-rule="evenodd"
-                                clip-rule="evenodd"
+                                fillRule="evenodd"
+                                clipRule="evenodd"
                                 fill="#FFFFFF"
                                 d="M116.965,887.553l1.347,0.241
 				c-0.199-1.621-0.697-2.546,0.404-3.527c0.487-2.201,1.723-3.443,4.269-3.816c6.461,2.249,14.109,24.705-1.302,19.397
@@ -1190,8 +1190,8 @@ const MonkeFill = () => {
 				c6.176-4.459,13.045-15.25,12.823-22.891H152.21z"
                             />
                             <path
-                                fill-rule="evenodd"
-                                clip-rule="evenodd"
+                                fillRule="evenodd"
+                                clipRule="evenodd"
                                 fill="#010101"
                                 d="M460.563,183.132c7.572,1.072,16.636-1.592,22.938,1.9
 				c-3.233,2.124-7.068,2.6-12.53,9.125c-2.1,2.509-4.288,5.508-4.894,8.898c4.498-0.559,18-3.775,23.799-4.381
@@ -1201,8 +1201,8 @@ const MonkeFill = () => {
                             />
                             <path
                                 display="none"
-                                fill-rule="evenodd"
-                                clip-rule="evenodd"
+                                fillRule="evenodd"
+                                clipRule="evenodd"
                                 fill="#FFFFFF"
                                 d="M163.047,495.849
 				c4.233,8.83,23.15,9.718,22.732,21.461c-4.339,0.04-6.161-2.143-9.904-2.666c0.942,2.7,3.721,6.102,5.283,9.108
@@ -1213,8 +1213,8 @@ const MonkeFill = () => {
                             />
                             <path
                                 display="none"
-                                fill-rule="evenodd"
-                                clip-rule="evenodd"
+                                fillRule="evenodd"
+                                clipRule="evenodd"
                                 fill="#FFFFFF"
                                 d="M701.012,643.619l-0.862-0.058
 				c-0.266,9.043-0.866,18.388,0.528,27.361c1.364,8.783,17.643,34.266,11.885,58.386c-0.91,3.813-3.202,8.009-3.672,11.034
@@ -1225,8 +1225,8 @@ const MonkeFill = () => {
                             />
                             <path
                                 display="none"
-                                fill-rule="evenodd"
-                                clip-rule="evenodd"
+                                fillRule="evenodd"
+                                clipRule="evenodd"
                                 fill="#FFFFFF"
                                 d="M539.522,889.35
 				c0.024,1.546-0.376,1.667,0.378,2.532c1.982-5.538,5.555-13.497,8.635-17.481c2.123-2.744,3.96-4.536,6.135-6.963
@@ -1237,8 +1237,8 @@ const MonkeFill = () => {
                             />
                             <path
                                 display="none"
-                                fill-rule="evenodd"
-                                clip-rule="evenodd"
+                                fillRule="evenodd"
+                                clipRule="evenodd"
                                 fill="#FFFFFF"
                                 d="M548.081,822.613
 				c-0.947,0.451,1.199,0.602-1.198,0.324l0.48-0.824c1.266-3.668,3.954-6.988,5.853-10.279c1.986-3.443,3.271-7.326,5.309-10.855
@@ -1248,8 +1248,8 @@ const MonkeFill = () => {
 				c-4.135,3.879-5.487,4.593-10.713,9.822C561.505,814.044,554.593,820.513,548.081,822.613L548.081,822.613z"
                             />
                             <path
-                                fill-rule="evenodd"
-                                clip-rule="evenodd"
+                                fillRule="evenodd"
+                                clipRule="evenodd"
                                 fill="#010101"
                                 d="M383.609,184.087c12.767,2.839,18.799-3.561,26.534-8.41
 				c5.651-3.544,7.578-7.144,12.026-12.857c3.818-4.902,10.198-12.494,15.236-15.331c1.875-1.055,2.815-1.256,3.149-3.751
@@ -1258,8 +1258,8 @@ const MonkeFill = () => {
 				C385.431,180.676,383.929,181.107,383.609,184.087z"
                             />
                             <path
-                                fill-rule="evenodd"
-                                clip-rule="evenodd"
+                                fillRule="evenodd"
+                                clipRule="evenodd"
                                 fill="#010101"
                                 d="M263.659,661.069l0.015,1.711l4.907-0.017l6.208-8.473
 				c2.224-3.06,3.864-5.703,5.914-8.934c5.079-8.007,5.996-11.344,7.356-22.328c1.294-10.451,2.088-14.994,5.451-24.249
@@ -1269,8 +1269,8 @@ const MonkeFill = () => {
                             />
                             <path
                                 display="none"
-                                fill-rule="evenodd"
-                                clip-rule="evenodd"
+                                fillRule="evenodd"
+                                clipRule="evenodd"
                                 fill="#FFFFFF"
                                 d="M626.51,808.322
 				c0.118,1.248-0.035,2.018-0.16,3.32c-0.021,0.219-0.135,1.632-0.118,1.762c0.249,2.014-0.124,0.583,0.601,1.288
@@ -1280,8 +1280,8 @@ const MonkeFill = () => {
 				c-0.578,6.446-2.794,19.368-2.187,25.075V808.322z"
                             />
                             <path
-                                fill-rule="evenodd"
-                                clip-rule="evenodd"
+                                fillRule="evenodd"
+                                clipRule="evenodd"
                                 fill="#010101"
                                 d="M232.679,550.411c4.55,1.585,7.582-6.747,12.783-0.158
 				c3.195,4.048,12.467,14.794,14.011,18.02c-3.384,1.953-9.133,6.713-9.351,11.986c-0.291,7.024,9.627-2.261,12.534-4.05
@@ -1290,8 +1290,8 @@ const MonkeFill = () => {
                             />
                             <path
                                 display="none"
-                                fill-rule="evenodd"
-                                clip-rule="evenodd"
+                                fillRule="evenodd"
+                                clipRule="evenodd"
                                 fill="#FFFFFF"
                                 d="M646.882,326.508l-0.365,0.357
 				c0.598,1.77,2.522,4.22,3.749,5.822c1.369,1.786,2.683,3.73,3.874,5.726c3.85,6.449,3.299,4.139,9.235,9.983
@@ -1301,8 +1301,8 @@ const MonkeFill = () => {
                             />
                             <path
                                 display="none"
-                                fill-rule="evenodd"
-                                clip-rule="evenodd"
+                                fillRule="evenodd"
+                                clipRule="evenodd"
                                 fill="#FFFFFF"
                                 d="M820.195,362.752l-0.24,0.237
 				c0.79,1.875,11.492,16.305,13.386,18.468c8.677,9.903,18.09,8.206,19.552,12.67c-6.745,2.438-24.784-4.931-29.333-8.13
@@ -1311,8 +1311,8 @@ const MonkeFill = () => {
 				C850.902,382.311,826.713,363.945,820.195,362.752z"
                             />
                             <path
-                                fill-rule="evenodd"
-                                clip-rule="evenodd"
+                                fillRule="evenodd"
+                                clipRule="evenodd"
                                 fill="#010101"
                                 d="M423.704,492.75c1.431,1.686,6.902,2.217,9.638,2.789
 				c3.988,0.833,6.064,2.243,9.279,3.378c-2.659,2.566-12.25,2.199-13.596,6.154c2.146,0.68,26.96,2.467,35.039,4.714
@@ -1321,8 +1321,8 @@ const MonkeFill = () => {
                             />
                             <path
                                 display="none"
-                                fill-rule="evenodd"
-                                clip-rule="evenodd"
+                                fillRule="evenodd"
+                                clipRule="evenodd"
                                 fill="#FFFFFF"
                                 d="M523.28,606.053l1.001,0.389
 				c4.938-13.966,8.34-29.305,7.195-44.622c-0.208-2.789-2.301-2.946-4.373-4.179c-2.08-1.236-2.982-2.68-5.095-3.665
@@ -1331,8 +1331,8 @@ const MonkeFill = () => {
 				c5.109,3.425,13.901,9.615,17.542,13.893C515.135,583.373,522.937,593.714,523.28,606.053L523.28,606.053z"
                             />
                             <path
-                                fill-rule="evenodd"
-                                clip-rule="evenodd"
+                                fillRule="evenodd"
+                                clipRule="evenodd"
                                 fill="#010101"
                                 d="M310.092,264.107c-5.345,0.141-17.253,7.473-21.208,12.119
 				c-8.739,10.269-11.524,20.459-17.522,32.688c-1.864,3.8-3.776,7.533-5.245,11.8c-1.554,4.512-2.038,9.702-0.253,14.364
@@ -1342,8 +1342,8 @@ const MonkeFill = () => {
                             />
                             <path
                                 display="none"
-                                fill-rule="evenodd"
-                                clip-rule="evenodd"
+                                fillRule="evenodd"
+                                clipRule="evenodd"
                                 fill="#FFFFFF"
                                 d="M371.382,383.272
 				c1.777-0.333,5.504-1.93,6.856-2.713c-0.871-2.222-2.94-2.988-3.437-10.421c-0.974-14.572,21.878-19.993,22.55-7.875
@@ -1354,8 +1354,8 @@ const MonkeFill = () => {
                             />
                             <path
                                 display="none"
-                                fill-rule="evenodd"
-                                clip-rule="evenodd"
+                                fillRule="evenodd"
+                                clipRule="evenodd"
                                 fill="#FFFFFF"
                                 d="M686.398,418.835
 				c-2.429-3.82-6.575-12.189-10.459-18.367c-3.828-6.088-8.197-12.618-12.668-17.027c-6.212-6.125-25.013-19.771-37.526-22.105
@@ -1363,8 +1363,8 @@ const MonkeFill = () => {
                             />
                             <path
                                 display="none"
-                                fill-rule="evenodd"
-                                clip-rule="evenodd"
+                                fillRule="evenodd"
+                                clipRule="evenodd"
                                 fill="#FFFFFF"
                                 d="M163.395,886.113
 				c0.835,2.825,1.038,0.824,3.155,5.084c0.484,0.974-0.147,0.073,0.485,0.86c0.915,1.137,0.07,0.313,1.111,0.94
@@ -1374,8 +1374,8 @@ const MonkeFill = () => {
 				c-1.89,4.108-12.403,20.166-16.586,22.717L163.395,886.113z"
                             />
                             <path
-                                fill-rule="evenodd"
-                                clip-rule="evenodd"
+                                fillRule="evenodd"
+                                clipRule="evenodd"
                                 fill="#010101"
                                 d="M311.166,343.031c2.438-1.226,3.953-5.418,5.296-8.222
 				c1.446-3.022,3.126-6.491,4.761-8.763c4.186-5.816,5.839-11.422,9.118-17.955c3.779-7.527,20.178-26.687,20.619-33.956
@@ -1383,8 +1383,8 @@ const MonkeFill = () => {
 				C310.464,326.869,307.923,336.101,311.166,343.031L311.166,343.031z"
                             />
                             <path
-                                fill-rule="evenodd"
-                                clip-rule="evenodd"
+                                fillRule="evenodd"
+                                clipRule="evenodd"
                                 fill="#010101"
                                 d="M199.301,323.305c0.841,2.77,4.12,4.363,6.965,5.886
 				c11.209,6,12.165,4.493,24.114,14.306c4.256,3.495,9.465,8.329,14.646,11.124c5.119,2.761,6.987,4.9,10.918,8.278
@@ -1392,8 +1392,8 @@ const MonkeFill = () => {
 				L199.301,323.305z"
                             />
                             <path
-                                fill-rule="evenodd"
-                                clip-rule="evenodd"
+                                fillRule="evenodd"
+                                clipRule="evenodd"
                                 fill="#010101"
                                 d="M414.962,886.569c3.997-1.191,6.864-7.714,8.772-12.116
 				c3.306-7.628-0.371-6.036,4.283-16.667l9.796-21.221c1.329-2.393,3.322-3.781,4.229-6.217
@@ -1402,8 +1402,8 @@ const MonkeFill = () => {
                             />
                             <path
                                 display="none"
-                                fill-rule="evenodd"
-                                clip-rule="evenodd"
+                                fillRule="evenodd"
+                                clipRule="evenodd"
                                 fill="#FFFFFF"
                                 d="M433.805,644.754
 				c-5.738-1.415-8.637-9.778-8.253-17.139C431.166,628.642,437.115,637.571,433.805,644.754z M437.164,671.243
@@ -1411,8 +1411,8 @@ const MonkeFill = () => {
 				c-7.298,5.265-12.718,24.571-1.448,31.972C432.903,650.094,431.837,664.81,437.164,671.243L437.164,671.243z"
                             />
                             <path
-                                fill-rule="evenodd"
-                                clip-rule="evenodd"
+                                fillRule="evenodd"
+                                clipRule="evenodd"
                                 fill="#010101"
                                 d="M521.618,781.53c-0.309,1.354-0.29,0.477,0.457,0.842
 				c6.809-1.015,11.552-6.383,15.36-9.475c8.341-6.773,16.841-19.731,18.531-31.641c1.034-7.286-0.182-16.945-4.319-20.761
@@ -1421,8 +1421,8 @@ const MonkeFill = () => {
                             />
                             <path
                                 display="none"
-                                fill-rule="evenodd"
-                                clip-rule="evenodd"
+                                fillRule="evenodd"
+                                clipRule="evenodd"
                                 fill="#FFFFFF"
                                 d="M901.719,407.372l0.515-0.544
 				c-0.426-4.909-6.941-17.772-9.252-21.712c-7.002-11.933-19.275-24.501-30.415-32.458l-13.713-9.872
@@ -1430,8 +1430,8 @@ const MonkeFill = () => {
 				c5.149,5.084,15.452,14.704,18.386,20.887H901.719z"
                             />
                             <path
-                                fill-rule="evenodd"
-                                clip-rule="evenodd"
+                                fillRule="evenodd"
+                                clipRule="evenodd"
                                 fill="#010101"
                                 d="M500.737,294.17c0.694,2.482,2.894,3.619,5.245,4.659
 				c2.78,1.229,4.281,2.785,6.413,3.635c2.48,0.988,5.499,1.133,8.102,1.931l22.896,7.241c3.891,1.437,10.914,4.308,14.941,5.145
@@ -1439,8 +1439,8 @@ const MonkeFill = () => {
 				L500.737,294.17z"
                             />
                             <path
-                                fill-rule="evenodd"
-                                clip-rule="evenodd"
+                                fillRule="evenodd"
+                                clipRule="evenodd"
                                 fill="#010101"
                                 d="M234.343,238.982c1.809-1.683,2.738-3.842,6.307-7.074
 				c11.239-10.176,32.708-13.01,36.024-30.309c1.381-7.206-0.715-16.63-3.365-21.964c-3.339,1.639-6.249,13.086-7.973,17.154
@@ -1448,16 +1448,16 @@ const MonkeFill = () => {
                             />
                             <path
                                 display="none"
-                                fill-rule="evenodd"
-                                clip-rule="evenodd"
+                                fillRule="evenodd"
+                                clipRule="evenodd"
                                 fill="#FFFFFF"
                                 d="M698.468,477.916l0.381-0.447
 				c-1.34-7.905-12.048-26.041-16.093-31.421c-3.883-5.164-18.656-18.836-26.255-21.762c0.804,4.378,8.321,19.257,11.106,24.246
 				c3.937,7.052,11.294,13.685,17.606,18.642c3.116,2.447,10.358,9.452,13.255,10.742L698.468,477.916z"
                             />
                             <path
-                                fill-rule="evenodd"
-                                clip-rule="evenodd"
+                                fillRule="evenodd"
+                                clipRule="evenodd"
                                 fill="#010101"
                                 d="M450.187,426.157l-0.425,1.363l1.185-0.215
 				c3.511-0.453,11.634-6.726,13.522-8.627c3.615-3.642,6.291-8.141,9.172-13.528c2.445-4.569,5.015-10.51,5.544-16.711
@@ -1465,8 +1465,8 @@ const MonkeFill = () => {
 				c-2.121,5.059-3.58,10.604-5.622,15.78c-2.362,5.987-14.367,24.826-14.375,28.789L450.187,426.157z"
                             />
                             <path
-                                fill-rule="evenodd"
-                                clip-rule="evenodd"
+                                fillRule="evenodd"
+                                clipRule="evenodd"
                                 fill="#010101"
                                 d="M146.561,403.775c2.971-1.339,3.11-7.413,7.823-14.02
 				c1.589-2.227,3.139-3.317,4.951-5.984c1.527-2.249,2.954-4.184,4.656-6.239c3.328-4.018,7.586-5.695,13.278-8.565
@@ -1475,8 +1475,8 @@ const MonkeFill = () => {
                             />
                             <path
                                 display="none"
-                                fill-rule="evenodd"
-                                clip-rule="evenodd"
+                                fillRule="evenodd"
+                                clipRule="evenodd"
                                 fill="#FFFFFF"
                                 d="M352.629,678.259
 				c3.952-1.201,8.242-3.485,11.586-5.262c2.949-1.567,8.941-4.555,9.115-8.062c0.388-7.815-7.313-20.446-11.096-23.602
@@ -1484,8 +1484,8 @@ const MonkeFill = () => {
                             />
                             <path
                                 display="none"
-                                fill-rule="evenodd"
-                                clip-rule="evenodd"
+                                fillRule="evenodd"
+                                clipRule="evenodd"
                                 fill="#FFFFFF"
                                 d="M317.059,709.264
 				c0.777,13.815,20.995,21.217,23.347,20.215c0.327-0.14,7.622-10.121,5.642-13.396c-4.427-7.325-3.483-3.056-7.401-14.017
@@ -1493,8 +1493,8 @@ const MonkeFill = () => {
                             />
                             <path
                                 display="none"
-                                fill-rule="evenodd"
-                                clip-rule="evenodd"
+                                fillRule="evenodd"
+                                clipRule="evenodd"
                                 fill="#FFFFFF"
                                 d="M312.834,694.144
 				c3.246-1.097,13.175-7.412,17.55-9.572c2.503-1.236,3.833-1.561,4.812-4.363c1.538-4.401-2.201-6.791-6.077-11.001
@@ -1502,16 +1502,16 @@ const MonkeFill = () => {
                             />
                             <path
                                 display="none"
-                                fill-rule="evenodd"
-                                clip-rule="evenodd"
+                                fillRule="evenodd"
+                                clipRule="evenodd"
                                 fill="#FFFFFF"
                                 d="M350.169,697.378
 				c-0.968,7.191,8.407,14.133,12.359,18.768c2.001,2.348,3.063,3.259,7.654,3.122c3.539-12.351,4.759-15.426,0.967-29.962
 				c-5.949,0.432-16.734,5.382-20.98,8.073V697.378z"
                             />
                             <path
-                                fill-rule="evenodd"
-                                clip-rule="evenodd"
+                                fillRule="evenodd"
+                                clipRule="evenodd"
                                 fill="#010101"
                                 d="M369.728,897.59c2.08-6.095,1.124-23.539,1.288-31.366
 				c0.071-3.374,1.228-21.454,0.515-24.182l-0.395-0.979c-0.033-0.077-0.104-0.216-0.17-0.316
@@ -1519,8 +1519,8 @@ const MonkeFill = () => {
                             />
                             <path
                                 display="none"
-                                fill-rule="evenodd"
-                                clip-rule="evenodd"
+                                fillRule="evenodd"
+                                clipRule="evenodd"
                                 fill="#FFFFFF"
                                 d="M755.378,441.384l0.096-0.456
 				c-1.514-2.649-8.582-10.039-12.712-16.473c-9.714-15.134-10.423-30.838-16.33-42.185c-1.899-3.649-11.196-14.005-13.591-15.524
@@ -1529,8 +1529,8 @@ const MonkeFill = () => {
                             />
                             <path
                                 display="none"
-                                fill-rule="evenodd"
-                                clip-rule="evenodd"
+                                fillRule="evenodd"
+                                clipRule="evenodd"
                                 fill="#FFFFFF"
                                 d="M739.97,373.151
 				c-0.658,8.374,6.417,32.737,12.263,40.516c1.406,1.87,2.758,2.752,4.173,4.561c1.19,1.522,2.604,3.956,4.385,4.691
@@ -1539,8 +1539,8 @@ const MonkeFill = () => {
 				L739.97,373.151z"
                             />
                             <path
-                                fill-rule="evenodd"
-                                clip-rule="evenodd"
+                                fillRule="evenodd"
+                                clipRule="evenodd"
                                 fill="#010101"
                                 d="M513.053,159.917c1.012,0.184,13.024-1.49,14.859-1.86
 				c4.714-0.946,8.479-3.398,11.37-5.615c6.871-5.267,12.629-10.383,9.371-23.354c-2.984,0.498-2.594,1.77-4.879,3.39
@@ -1548,8 +1548,8 @@ const MonkeFill = () => {
 				C514.531,157.117,514.036,156.857,513.053,159.917L513.053,159.917z"
                             />
                             <path
-                                fill-rule="evenodd"
-                                clip-rule="evenodd"
+                                fillRule="evenodd"
+                                clipRule="evenodd"
                                 fill="#010101"
                                 d="M469.108,678.942c7.743-1.597,14.923-10.045,17.854-16.794
 				c4.349-10.015,1.35-18.588-2.809-26.911c-1.353,1.061-4.428,6.896-5.568,8.921c-2.122,3.774-3.396,16.039-5.814,23.443
@@ -1557,8 +1557,8 @@ const MonkeFill = () => {
                             />
                             <path
                                 display="none"
-                                fill-rule="evenodd"
-                                clip-rule="evenodd"
+                                fillRule="evenodd"
+                                clipRule="evenodd"
                                 fill="#FFFFFF"
                                 d="M403.846,659.636
 				c-0.731-0.011-0.521-0.184-0.589,0.569c0.296,2.266,1.556,4.534,2.077,7.011c2.297,10.935,0,17.637,0.089,25.639
@@ -1566,8 +1566,8 @@ const MonkeFill = () => {
                             />
                             <path
                                 display="none"
-                                fill-rule="evenodd"
-                                clip-rule="evenodd"
+                                fillRule="evenodd"
+                                clipRule="evenodd"
                                 fill="#FFFFFF"
                                 d="M598.232,293.138
 				c2.32,0.127,1.012,0.484,1.531-0.523c-0.88-0.463-12.376-10.096-23.095-15.139c-7.043-3.314-22.027-7.632-30.891-7.96
@@ -1575,8 +1575,8 @@ const MonkeFill = () => {
 				C570.863,287.646,593.7,293.218,598.232,293.138z"
                             />
                             <path
-                                fill-rule="evenodd"
-                                clip-rule="evenodd"
+                                fillRule="evenodd"
+                                clipRule="evenodd"
                                 fill="#010101"
                                 d="M162.817,347.349c4.456,1.293,9.559-0.554,14.316-0.442
 				c6.975,0.163,19.435,6.078,25.751,6.628c2.469,0.215,5.179-0.254,7.418,0.451c3.095,0.975,2.2,1.654,6.472,1.611
@@ -1584,8 +1584,8 @@ const MonkeFill = () => {
 				C172.363,342.665,164.945,344.798,162.817,347.349L162.817,347.349z"
                             />
                             <path
-                                fill-rule="evenodd"
-                                clip-rule="evenodd"
+                                fillRule="evenodd"
+                                clipRule="evenodd"
                                 fill="#010101"
                                 d="M118.716,884.266l0.033,3.927
 				c-1.542-0.18-0.761,0.231-1.784-0.641c-6.656-0.36-8.219-8.184-16.118-5.051c-0.539,6.469,3.535,9.077,7.818,11.153l13.018,6.192
@@ -1593,8 +1593,8 @@ const MonkeFill = () => {
                             />
                             <path
                                 display="none"
-                                fill-rule="evenodd"
-                                clip-rule="evenodd"
+                                fillRule="evenodd"
+                                clipRule="evenodd"
                                 fill="#FFFFFF"
                                 d="M801.369,412.045
 				c0.662,0.037,0.485,0.191,0.506-0.483c-0.994-6.32-4.188-20.519-6.822-25.438c-2.887-5.393-10.487-14.316-16.351-16.441
@@ -1602,8 +1602,8 @@ const MonkeFill = () => {
                             />
                             <path
                                 display="none"
-                                fill-rule="evenodd"
-                                clip-rule="evenodd"
+                                fillRule="evenodd"
+                                clipRule="evenodd"
                                 fill="#FFFFFF"
                                 d="M314.21,737.47
 				c6.741-10.139,4.217-9.801-2.809-17.784c-1.419-1.612-2.302-4.303-3.411-6.625c-3.798-0.2-7.489,1.508-10.296,3.013
@@ -1611,8 +1611,8 @@ const MonkeFill = () => {
                             />
                             <path
                                 display="none"
-                                fill-rule="evenodd"
-                                clip-rule="evenodd"
+                                fillRule="evenodd"
+                                clipRule="evenodd"
                                 fill="#FFFFFF"
                                 d="M388.137,629.683
 				c-1.701,2.995-5.325,11.969-6.322,15.5c-0.827,2.93,0.322,13.643,10.352,9.057c11.409-5.216,7.334-8.264,5.406-12.015
@@ -1620,8 +1620,8 @@ const MonkeFill = () => {
                             />
                             <path
                                 display="none"
-                                fill-rule="evenodd"
-                                clip-rule="evenodd"
+                                fillRule="evenodd"
+                                clipRule="evenodd"
                                 fill="#FFFFFF"
                                 d="M375.404,312.907l0.734,0.41
 				c6.35-0.539,11.67-5.365,18.825-5.629c6.14-0.226,14.803,2.45,20.604,3.836c12.306,2.937,12.845,7.727,18.863,17.83
@@ -1630,8 +1630,8 @@ const MonkeFill = () => {
                             />
                             <path
                                 display="none"
-                                fill-rule="evenodd"
-                                clip-rule="evenodd"
+                                fillRule="evenodd"
+                                clipRule="evenodd"
                                 fill="#FFFFFF"
                                 d="M690.234,333.815l0.316-0.447
 				c-1.382-3.833-4.908-7.654-7.152-10.23c-3.659-4.197-13.409-13.125-18.35-17.03c-4.303-3.401-8.276-3.476-14.805-3.267
@@ -1639,8 +1639,8 @@ const MonkeFill = () => {
                             />
                             <path
                                 display="none"
-                                fill-rule="evenodd"
-                                clip-rule="evenodd"
+                                fillRule="evenodd"
+                                clipRule="evenodd"
                                 fill="#FFFFFF"
                                 d="M626.252,343.05
 				c-1.467-2.523-8.644-9.097-11.355-11.233c-6.612-5.205-20.378-19.354-32.372-18.208c1.804,3.396,5.147,5.374,9.239,8.597
@@ -1648,39 +1648,39 @@ const MonkeFill = () => {
                             />
                             <path
                                 display="none"
-                                fill-rule="evenodd"
-                                clip-rule="evenodd"
+                                fillRule="evenodd"
+                                clipRule="evenodd"
                                 fill="#FFFFFF"
                                 d="M271.04,709.451
 				c3.337,0.413,8.471-3.445,11.289-4.817c3.655-1.779,8.38-3.158,12.875-3.816c-0.006-2.743-1.908-10.292-2.996-12.583
 				c-3.763-7.921-12.535,7.928-14.996,11.721C274.564,704.041,271.26,706.246,271.04,709.451L271.04,709.451z"
                             />
                             <path
-                                fill-rule="evenodd"
-                                clip-rule="evenodd"
+                                fillRule="evenodd"
+                                clipRule="evenodd"
                                 fill="#010101"
                                 d="M458.819,677.036c8.474-0.62,16.347-19.282,11.346-29.102
 				c-2.974,0.786-6.934,8.034-8.385,11.731C459.764,664.798,458.348,670.829,458.819,677.036z"
                             />
                             <path
                                 display="none"
-                                fill-rule="evenodd"
-                                clip-rule="evenodd"
+                                fillRule="evenodd"
+                                clipRule="evenodd"
                                 fill="#FFFFFF"
                                 d="M694.825,137.502l28.361,9.795
 				c-0.888-2.845-8.603-8.222-11.671-9.505c-3.393-1.419-11.172-3.469-14.962-1.875c-1.792,0.754-1.108,0.391-1.729,1.585H694.825z"
                             />
                             <path
-                                fill-rule="evenodd"
-                                clip-rule="evenodd"
+                                fillRule="evenodd"
+                                clipRule="evenodd"
                                 fill="#010101"
                                 d="M433.805,644.754c3.311-7.183-2.639-16.113-8.253-17.139
 				C425.168,634.977,428.068,643.34,433.805,644.754z"
                             />
                             <path
                                 display="none"
-                                fill-rule="evenodd"
-                                clip-rule="evenodd"
+                                fillRule="evenodd"
+                                clipRule="evenodd"
                                 fill="#FFFFFF"
                                 d="M292.817,739.411
 				c1.438-1.169,2.294-3.771,2.654-5.991c-3.4-1.19-4.723-4.03-6.64-6.807C282.241,731.96,286.33,735.929,292.817,739.411
@@ -1688,22 +1688,22 @@ const MonkeFill = () => {
                             />
                             <path
                                 display="none"
-                                fill-rule="evenodd"
-                                clip-rule="evenodd"
+                                fillRule="evenodd"
+                                clipRule="evenodd"
                                 fill="#FFFFFF"
                                 d="M333.387,369.671l0.922,1.31
 				c1.111-4.068,2.359-8.604,2.58-13.162l-0.383-0.689C332.421,360.45,333.664,363.95,333.387,369.671L333.387,369.671z"
                             />
                             <path
-                                fill-rule="evenodd"
-                                clip-rule="evenodd"
+                                fillRule="evenodd"
+                                clipRule="evenodd"
                                 fill="#828282"
                                 d="M581.49,261.419c1.023-1.259,4.907-0.526,6.459-0.487
 				c2.052,0.051,4.343,0.361,6.283,0.177c-0.41-0.824-11.925-0.742-13.686-0.762l0.944,1.074L581.49,261.419z"
                             />
                             <path
-                                fill-rule="evenodd"
-                                clip-rule="evenodd"
+                                fillRule="evenodd"
+                                clipRule="evenodd"
                                 fill="#8B8B8B"
                                 d="M626.832,814.69c-0.724-0.705-0.353,0.726-0.601-1.288
 				c-0.017-0.13,0.097-1.543,0.118-1.762c0.125-1.302,0.278-2.071,0.16-3.32c-0.947,1.489-0.92,5.562-0.415,7.533l0.737-1.164
@@ -1711,8 +1711,8 @@ const MonkeFill = () => {
                             />
                             <path
                                 display="none"
-                                fill-rule="evenodd"
-                                clip-rule="evenodd"
+                                fillRule="evenodd"
+                                clipRule="evenodd"
                                 fill="#7F8080"
                                 d="M116.965,887.553
 				c1.023,0.871,0.242,0.461,1.784,0.641l-0.033-3.927c-1.1,0.982-0.603,1.907-0.404,3.527
@@ -1720,16 +1720,16 @@ const MonkeFill = () => {
                             />
                             <path
                                 display="none"
-                                fill-rule="evenodd"
-                                clip-rule="evenodd"
+                                fillRule="evenodd"
+                                clipRule="evenodd"
                                 fill="#656565"
                                 d="M146.945,156.041l0.192-0.953l5.452,0.214
 				c-1.391-0.613-4.289-0.801-6.051-0.384L146.945,156.041L146.945,156.041z"
                             />
                             <path
                                 display="none"
-                                fill-rule="evenodd"
-                                clip-rule="evenodd"
+                                fillRule="evenodd"
+                                clipRule="evenodd"
                                 fill="#777777"
                                 d="M268.581,662.764l-4.907,0.017l-0.015-1.711
 				c-0.538,0.915-0.418,0.481-0.329,1.888l3.754,0.302c1.079-0.128-0.283,0.14,0.806-0.156c0.12-0.032,0.259-0.124,0.353-0.155
@@ -1737,8 +1737,8 @@ const MonkeFill = () => {
                             />
                             <path
                                 display="none"
-                                fill-rule="evenodd"
-                                clip-rule="evenodd"
+                                fillRule="evenodd"
+                                clipRule="evenodd"
                                 fill="#6D6E6E"
                                 d="M271.377,111.897
 				c-0.805-0.397-0.449,0.065-0.45-1.56c-0.001-1.065,0.152-1.555,0.092-2.756c-0.647,1.35-0.527,3.286-0.539,5.128L271.377,111.897
@@ -1746,8 +1746,8 @@ const MonkeFill = () => {
                             />
                             <path
                                 display="none"
-                                fill-rule="evenodd"
-                                clip-rule="evenodd"
+                                fillRule="evenodd"
+                                clipRule="evenodd"
                                 fill="#787878"
                                 d="M168.31,758.73
 				c-1.047-0.036-1.177,0.07-2.122,0.126c-2.963,0.177-1.403,0.349-2.187-0.661l-0.391,0.971c1.578,0.343,3.547,0.188,4.7-0.436
@@ -1755,8 +1755,8 @@ const MonkeFill = () => {
                             />
                             <path
                                 display="none"
-                                fill-rule="evenodd"
-                                clip-rule="evenodd"
+                                fillRule="evenodd"
+                                clipRule="evenodd"
                                 fill="#959494"
                                 d="M739.97,373.151
 				c0.016-0.985-0.168-1.442-0.167-2.181c0.005-2.966-0.255-0.969,0.602-1.724l-1.013-0.68c-0.033,1.796-0.162,3.353,0.577,4.585
@@ -1764,8 +1764,8 @@ const MonkeFill = () => {
                             />
                             <path
                                 display="none"
-                                fill-rule="evenodd"
-                                clip-rule="evenodd"
+                                fillRule="evenodd"
+                                clipRule="evenodd"
                                 fill="#979797"
                                 d="M542.079,456.537
 				c1.221,0.687,1.822,0.601,3.504,0.468l-0.768-0.972c-0.691,1.035,0.256,0.321-0.974,0.529
@@ -1773,24 +1773,24 @@ const MonkeFill = () => {
                             />
                             <path
                                 display="none"
-                                fill-rule="evenodd"
-                                clip-rule="evenodd"
+                                fillRule="evenodd"
+                                clipRule="evenodd"
                                 fill="#828282"
                                 d="M539.901,891.881
 				c-0.755-0.865-0.355-0.984-0.378-2.532c-0.675,1.269-0.528,1.942-0.468,3.625L539.901,891.881L539.901,891.881z"
                             />
                             <path
                                 display="none"
-                                fill-rule="evenodd"
-                                clip-rule="evenodd"
+                                fillRule="evenodd"
+                                clipRule="evenodd"
                                 fill="#797979"
                                 d="M318.484,376.524
 				c0.776-1.101,0.673-1.925,0.633-3.443l-1.717,0.623l1.366-0.196L318.484,376.524L318.484,376.524z"
                             />
                             <path
                                 display="none"
-                                fill-rule="evenodd"
-                                clip-rule="evenodd"
+                                fillRule="evenodd"
+                                clipRule="evenodd"
                                 fill="#969696"
                                 d="M602.044,423.789
 				c1.113,0.726,1.476,0.56,2.995,0.554c-0.198-1.692,0.154-0.477-0.579-1.232c0.415,1.574,0.207,0.294-0.357,0.803L602.044,423.789
@@ -1798,8 +1798,8 @@ const MonkeFill = () => {
                             />
                             <path
                                 display="none"
-                                fill-rule="evenodd"
-                                clip-rule="evenodd"
+                                fillRule="evenodd"
+                                clipRule="evenodd"
                                 fill="#7D7D7D"
                                 d="M598.232,293.138
 				c1.01,0.903,0.985,0.64,2.357,0.547c-0.43-1.883-0.038-0.389-0.826-1.07C599.243,293.622,600.552,293.265,598.232,293.138
@@ -1807,24 +1807,24 @@ const MonkeFill = () => {
                             />
                             <polygon
                                 display="none"
-                                fill-rule="evenodd"
-                                clip-rule="evenodd"
+                                fillRule="evenodd"
+                                clipRule="evenodd"
                                 fill="#616262"
                                 points="456.105,910.849 457.039,911.927 
 				457.01,910.384 456.07,909.919 			"
                             />
                             <path
                                 display="none"
-                                fill-rule="evenodd"
-                                clip-rule="evenodd"
+                                fillRule="evenodd"
+                                clipRule="evenodd"
                                 fill="#767676"
                                 d="M180.178,666.326l0.621-3.386l-1.097,0.72
 				c0.927,0.531,0.262-0.24,0.442,0.844C180.154,664.562,180.17,666.112,180.178,666.326L180.178,666.326z"
                             />
                             <path
                                 display="none"
-                                fill-rule="evenodd"
-                                clip-rule="evenodd"
+                                fillRule="evenodd"
+                                clipRule="evenodd"
                                 fill="#A4A4A5"
                                 d="M293.736,431.203
 				c-0.208-0.264-0.068,0.045-0.507-0.816c-0.189-0.368-0.226-0.547-0.417-0.919l0.096,2.292c1.681,0.022,0.154,0.109,0.827-0.558
@@ -1832,96 +1832,96 @@ const MonkeFill = () => {
                             />
                             <path
                                 display="none"
-                                fill-rule="evenodd"
-                                clip-rule="evenodd"
+                                fillRule="evenodd"
+                                clipRule="evenodd"
                                 fill="#8B8A8A"
                                 d="M152.211,894.679
 				c0.59-1.164,0.532-0.937,0.276-2.503l-2.314-0.258l2.076,0.479L152.211,894.679L152.211,894.679z"
                             />
                             <path
                                 display="none"
-                                fill-rule="evenodd"
-                                clip-rule="evenodd"
+                                fillRule="evenodd"
+                                clipRule="evenodd"
                                 fill="#969696"
                                 d="M518.994,229.919
 				c1.173,0.701,1.337,0.737,2.661,0.029l-0.543-1.248l0.222,1.269L518.994,229.919L518.994,229.919z"
                             />
                             <path
                                 display="none"
-                                fill-rule="evenodd"
-                                clip-rule="evenodd"
+                                fillRule="evenodd"
+                                clipRule="evenodd"
                                 fill="#646464"
                                 d="M452.155,368.483
 				c0.619-1.064,0.422-0.282,0.467-1.861c-1.648,0.03-0.714-0.21-1.811,0.493l1.45-0.218L452.155,368.483L452.155,368.483z"
                             />
                             <path
                                 display="none"
-                                fill-rule="evenodd"
-                                clip-rule="evenodd"
+                                fillRule="evenodd"
+                                clipRule="evenodd"
                                 fill="#6D6E6E"
                                 d="M439.391,944.912l0.77-0.158
 				c-0.876-1.298,0.027-0.598-1.5-1.236L439.391,944.912z"
                             />
                             <path
                                 display="none"
-                                fill-rule="evenodd"
-                                clip-rule="evenodd"
+                                fillRule="evenodd"
+                                clipRule="evenodd"
                                 fill="#838384"
                                 d="M334.31,370.982l-0.922-1.31l0.152,1.754
 				C335.123,371.66,333.687,371.555,334.31,370.982L334.31,370.982z"
                             />
                             <path
                                 display="none"
-                                fill-rule="evenodd"
-                                clip-rule="evenodd"
+                                fillRule="evenodd"
+                                clipRule="evenodd"
                                 fill="#ACACAC"
                                 d="M266.954,391.985
 				c0.438,0.899,0.195,0.599,1.026,0.992c-0.279-1.99-0.242-0.923-0.627-1.374L266.954,391.985z"
                             />
                             <path
                                 display="none"
-                                fill-rule="evenodd"
-                                clip-rule="evenodd"
+                                fillRule="evenodd"
+                                clipRule="evenodd"
                                 fill="#A3A3A2"
                                 d="M773.531,406.869l0.478-0.491
 				c-0.468-0.597,0.473-0.214-0.878-0.778c-0.042,1.631,0.176,0.92,0.4,1.27V406.869z"
                             />
                             <path
                                 display="none"
-                                fill-rule="evenodd"
-                                clip-rule="evenodd"
+                                fillRule="evenodd"
+                                clipRule="evenodd"
                                 fill="#BCBCBC"
                                 d="M456.07,909.919l0.94,0.466
 				c-0.023-0.559,0.335-0.435-0.474-1.353l-0.467,0.888V909.919z"
                             />
                             <path
                                 display="none"
-                                fill-rule="evenodd"
-                                clip-rule="evenodd"
+                                fillRule="evenodd"
+                                clipRule="evenodd"
                                 fill="#6F7070"
                                 d="M305.46,177.486
 				c-0.572-0.562-0.592,0.8-0.354-1.22c-0.752,0.989-0.445,0.248-0.604,1.84L305.46,177.486z"
                             />
                             <path
                                 display="none"
-                                fill-rule="evenodd"
-                                clip-rule="evenodd"
+                                fillRule="evenodd"
+                                clipRule="evenodd"
                                 fill="#4E4E4E"
                                 d="M450.946,427.304l-1.185,0.215l0.425-1.363
 				c-0.896,0.839-0.51-0.061-0.76,1.768L450.946,427.304z"
                             />
                             <path
                                 display="none"
-                                fill-rule="evenodd"
-                                clip-rule="evenodd"
+                                fillRule="evenodd"
+                                clipRule="evenodd"
                                 fill="#959494"
                                 d="M755.474,440.928l-0.096,0.456
 				c0.692,0.818-1.198,0.387,1.141,0.734C756.019,441.182,756,441.354,755.474,440.928L755.474,440.928z"
                             />
                             <path
                                 display="none"
-                                fill-rule="evenodd"
-                                clip-rule="evenodd"
+                                fillRule="evenodd"
+                                clipRule="evenodd"
                                 fill="#575757"
                                 d="M460.014,801.922
 				c-1.615,0.107-1.488,0.743-1.446-0.615l-0.48,1.221c0.81-0.068,0.452,0.083,0.995-0.115
@@ -1929,392 +1929,392 @@ const MonkeFill = () => {
                             />
                             <path
                                 display="none"
-                                fill-rule="evenodd"
-                                clip-rule="evenodd"
+                                fillRule="evenodd"
+                                clipRule="evenodd"
                                 fill="#474747"
                                 d="M111.036,600.638l-0.352-0.801
 				c-0.57,0.835-0.873-1.199-0.341,1.289L111.036,600.638L111.036,600.638z"
                             />
                             <path
                                 display="none"
-                                fill-rule="evenodd"
-                                clip-rule="evenodd"
+                                fillRule="evenodd"
+                                clipRule="evenodd"
                                 fill="#787878"
                                 d="M704.022,331.967l0.07-0.756
 				c-0.164-0.115,0.888-1.098-0.801-0.022C703.492,332.134,703.546,331.499,704.022,331.967L704.022,331.967z"
                             />
                             <path
                                 display="none"
-                                fill-rule="evenodd"
-                                clip-rule="evenodd"
+                                fillRule="evenodd"
+                                clipRule="evenodd"
                                 fill="#A3A3A2"
                                 d="M508.377,430.392
 				c-0.024-1.423-0.231-0.852,1.399-0.851l-1.645-0.489C507.503,431.7,507.97,429.363,508.377,430.392z"
                             />
                             <path
                                 display="none"
-                                fill-rule="evenodd"
-                                clip-rule="evenodd"
+                                fillRule="evenodd"
+                                clipRule="evenodd"
                                 fill="#767676"
                                 d="M262.313,378.389
 				c-0.376-1.783-0.318-0.58,0.253-1.164l-0.785-0.687C261.827,378.262,261.454,377.27,262.313,378.389L262.313,378.389z"
                             />
                             <path
                                 display="none"
-                                fill-rule="evenodd"
-                                clip-rule="evenodd"
+                                fillRule="evenodd"
+                                clipRule="evenodd"
                                 fill="#7D7D7D"
                                 d="M285.418,354.878
 				c-0.262-1.931-0.244-0.698,0.317-1.264l-0.757-0.593c-0.046,1.72-0.332,0.694,0.439,1.857V354.878z"
                             />
                             <path
                                 display="none"
-                                fill-rule="evenodd"
-                                clip-rule="evenodd"
+                                fillRule="evenodd"
+                                clipRule="evenodd"
                                 fill="#B2B2B2"
                                 d="M709.308,740.807l-0.417-0.466
 				c-0.436,0.646-0.457-0.146-0.368,1.27C709.62,741.026,708.9,741.311,709.308,740.807L709.308,740.807z"
                             />
                             <path
                                 display="none"
-                                fill-rule="evenodd"
-                                clip-rule="evenodd"
+                                fillRule="evenodd"
+                                clipRule="evenodd"
                                 fill="#A5A5A5"
                                 d="M700.151,643.56l0.862,0.058l-0.233-1.141
 				C700.019,643.073,700.48,642.5,700.151,643.56L700.151,643.56z"
                             />
                             <polygon
                                 display="none"
-                                fill-rule="evenodd"
-                                clip-rule="evenodd"
+                                fillRule="evenodd"
+                                clipRule="evenodd"
                                 fill="#ACACAC"
                                 points="603.195,757.827 604.149,757.848 
 				603.399,756.543 			"
                             />
                             <path
                                 display="none"
-                                fill-rule="evenodd"
-                                clip-rule="evenodd"
+                                fillRule="evenodd"
+                                clipRule="evenodd"
                                 fill="#C3C3C3"
                                 d="M398.504,958.876l0.084-0.476
 				c-0.354-0.253,0.854-1.231-0.882-0.14C398.246,959.603,397.647,958.24,398.504,958.876z"
                             />
                             <path
                                 display="none"
-                                fill-rule="evenodd"
-                                clip-rule="evenodd"
+                                fillRule="evenodd"
+                                clipRule="evenodd"
                                 fill="#919191"
                                 d="M524.281,606.442l-1.001-0.389l0.279,1.084
 				C524.882,606.669,523.67,607.113,524.281,606.442z"
                             />
                             <polygon
                                 display="none"
-                                fill-rule="evenodd"
-                                clip-rule="evenodd"
+                                fillRule="evenodd"
+                                clipRule="evenodd"
                                 fill="#5B5B5B"
                                 points="732.339,557.452 733.176,556.448 
 				732.647,555.715 			"
                             />
                             <path
                                 display="none"
-                                fill-rule="evenodd"
-                                clip-rule="evenodd"
+                                fillRule="evenodd"
+                                clipRule="evenodd"
                                 fill="#6B6B6B"
                                 d="M342.955,921.245l1.177,0.333l0.262-1.228
 				C343.815,921.053,344.042,920.897,342.955,921.245z"
                             />
                             <path
                                 display="none"
-                                fill-rule="evenodd"
-                                clip-rule="evenodd"
+                                fillRule="evenodd"
+                                clipRule="evenodd"
                                 fill="#908F8F"
                                 d="M458.311,566.732
 				c0.464-0.532,0.643,0.598,0.285-0.784l-1.009-0.254C457.867,566.033,458.123,566.459,458.311,566.732z"
                             />
                             <path
                                 display="none"
-                                fill-rule="evenodd"
-                                clip-rule="evenodd"
+                                fillRule="evenodd"
+                                clipRule="evenodd"
                                 fill="#5E5E5E"
                                 d="M812.348,291.123l0.588-1.91l-0.998,0.659
 				C812.394,290.338,812.31,289.135,812.348,291.123L812.348,291.123z"
                             />
                             <polygon
                                 display="none"
-                                fill-rule="evenodd"
-                                clip-rule="evenodd"
+                                fillRule="evenodd"
+                                clipRule="evenodd"
                                 fill="#9A9A9A"
                                 points="316.477,92.911 317.128,93.88 
 				317.32,92.506 			"
                             />
                             <path
                                 display="none"
-                                fill-rule="evenodd"
-                                clip-rule="evenodd"
+                                fillRule="evenodd"
+                                clipRule="evenodd"
                                 fill="#B2B2B2"
                                 d="M170.193,280.548l-0.187-0.404l-1.129,0.75
 				c2.176,0.133,0.798,0,1.316-0.345V280.548z"
                             />
                             <path
                                 display="none"
-                                fill-rule="evenodd"
-                                clip-rule="evenodd"
+                                fillRule="evenodd"
+                                clipRule="evenodd"
                                 fill="#969696"
                                 d="M747.276,678.639
 				c0.006-2.253-0.13-0.867,0.423-1.43l-0.89-0.746L747.276,678.639L747.276,678.639z"
                             />
                             <polygon
                                 display="none"
-                                fill-rule="evenodd"
-                                clip-rule="evenodd"
+                                fillRule="evenodd"
+                                clipRule="evenodd"
                                 fill="#6D6E6E"
                                 points="376.138,313.316 375.404,312.907 
 				374.555,313.806 			"
                             />
                             <path
                                 display="none"
-                                fill-rule="evenodd"
-                                clip-rule="evenodd"
+                                fillRule="evenodd"
+                                clipRule="evenodd"
                                 fill="#979797"
                                 d="M304.016,768.896l0.902,0.313l0.133-1.288
 				C303.906,769.493,305.025,768.092,304.016,768.896L304.016,768.896z"
                             />
                             <polygon
                                 display="none"
-                                fill-rule="evenodd"
-                                clip-rule="evenodd"
+                                fillRule="evenodd"
+                                clipRule="evenodd"
                                 fill="#939292"
                                 points="901.719,407.372 902.667,408.318 
 				902.233,406.827 			"
                             />
                             <path
                                 display="none"
-                                fill-rule="evenodd"
-                                clip-rule="evenodd"
+                                fillRule="evenodd"
+                                clipRule="evenodd"
                                 fill="#C3C3C3"
                                 d="M287.276,153.112l-0.522-0.323l-0.529,0.709
 				C288.389,153.871,286.464,153.671,287.276,153.112z"
                             />
                             <path
                                 display="none"
-                                fill-rule="evenodd"
-                                clip-rule="evenodd"
+                                fillRule="evenodd"
+                                clipRule="evenodd"
                                 fill="#656565"
                                 d="M186.928,824.419
 				c-0.714,0-0.518,0.18-0.612-0.517l-0.497,0.993C188.014,824.947,186.047,825.009,186.928,824.419L186.928,824.419z"
                             />
                             <path
                                 display="none"
-                                fill-rule="evenodd"
-                                clip-rule="evenodd"
+                                fillRule="evenodd"
+                                clipRule="evenodd"
                                 fill="#606060"
                                 d="M753.424,696.866
 				c0.541-0.527,0.524-0.328,0.951-0.592c-0.045-0.677,0.14-0.525-0.523-0.489L753.424,696.866L753.424,696.866z"
                             />
                             <path
                                 display="none"
-                                fill-rule="evenodd"
-                                clip-rule="evenodd"
+                                fillRule="evenodd"
+                                clipRule="evenodd"
                                 fill="#9B9B9B"
                                 d="M528.992,70.616
 				c0.582-0.515,0.507,0.799,0.459-0.943l-1.266,0.472C529.679,70.036,528.679,69.951,528.992,70.616z"
                             />
                             <path
                                 display="none"
-                                fill-rule="evenodd"
-                                clip-rule="evenodd"
+                                fillRule="evenodd"
+                                clipRule="evenodd"
                                 fill="#868686"
                                 d="M442.541,32.144
 				c0.525-0.425,0.41-0.213,0.995-0.495C443.368,30.126,442.648,31.875,442.541,32.144z"
                             />
                             <polygon
                                 display="none"
-                                fill-rule="evenodd"
-                                clip-rule="evenodd"
+                                fillRule="evenodd"
+                                clipRule="evenodd"
                                 fill="#8C8C8C"
                                 points="589.659,700.081 588.819,699.754 
 				588.782,700.854 			"
                             />
                             <polygon
                                 display="none"
-                                fill-rule="evenodd"
-                                clip-rule="evenodd"
+                                fillRule="evenodd"
+                                clipRule="evenodd"
                                 fill="#9B9B9B"
                                 points="427.744,442.67 428.358,442.127 
 				427.214,441.617 			"
                             />
                             <polygon
                                 display="none"
-                                fill-rule="evenodd"
-                                clip-rule="evenodd"
+                                fillRule="evenodd"
+                                clipRule="evenodd"
                                 fill="#505050"
                                 points="336.889,357.82 337.47,356.427 
 				336.506,357.131 			"
                             />
                             <path
                                 display="none"
-                                fill-rule="evenodd"
-                                clip-rule="evenodd"
+                                fillRule="evenodd"
+                                clipRule="evenodd"
                                 fill="#6D6E6E"
                                 d="M403.257,660.204
 				c0.068-0.753-0.143-0.579,0.589-0.569c-0.584-0.542,0.891-0.47-1.029-0.432L403.257,660.204z"
                             />
                             <path
                                 display="none"
-                                fill-rule="evenodd"
-                                clip-rule="evenodd"
+                                fillRule="evenodd"
+                                clipRule="evenodd"
                                 fill="#6D6E6E"
                                 d="M584.333,191.535l1,0.479
 				c0.086-2.085,0.108-0.242-0.432-1.048C584.945,191.683,585.098,191.461,584.333,191.535L584.333,191.535z"
                             />
                             <polygon
                                 display="none"
-                                fill-rule="evenodd"
-                                clip-rule="evenodd"
+                                fillRule="evenodd"
+                                clipRule="evenodd"
                                 fill="#6B6C6C"
                                 points="121.781,589.804 121.225,589.249 
 				120.686,590.288 			"
                             />
                             <path
                                 display="none"
-                                fill-rule="evenodd"
-                                clip-rule="evenodd"
+                                fillRule="evenodd"
+                                clipRule="evenodd"
                                 fill="#606060"
                                 d="M690.234,333.815l0.754,0.601
 				c0.024-2.069,0.124-0.258-0.436-1.048L690.234,333.815L690.234,333.815z"
                             />
                             <path
                                 display="none"
-                                fill-rule="evenodd"
-                                clip-rule="evenodd"
+                                fillRule="evenodd"
+                                clipRule="evenodd"
                                 fill="#9E9E9E"
                                 d="M522.074,782.372
 				c-0.747-0.365-0.766,0.512-0.457-0.842c-0.802,0.841-0.522-0.256-0.394,1.211L522.074,782.372L522.074,782.372z"
                             />
                             <path
                                 display="none"
-                                fill-rule="evenodd"
-                                clip-rule="evenodd"
+                                fillRule="evenodd"
+                                clipRule="evenodd"
                                 fill="#A5A5A5"
                                 d="M548.081,822.613
 				c-0.87-0.01-0.715,0.246-0.717-0.5l-0.48,0.824C549.279,823.215,547.133,823.065,548.081,822.613z"
                             />
                             <path
                                 display="none"
-                                fill-rule="evenodd"
-                                clip-rule="evenodd"
+                                fillRule="evenodd"
+                                clipRule="evenodd"
                                 fill="#505050"
                                 d="M801.369,412.045
 				c0.521,0.576-0.806,0.512,0.95,0.45l-0.444-0.933C801.854,412.236,802.031,412.083,801.369,412.045z"
                             />
                             <polygon
                                 display="none"
-                                fill-rule="evenodd"
-                                clip-rule="evenodd"
+                                fillRule="evenodd"
+                                clipRule="evenodd"
                                 fill="#767676"
                                 points="390.535,979.325 391.632,979.853 
 				390.996,978.826 			"
                             />
                             <path
                                 display="none"
-                                fill-rule="evenodd"
-                                clip-rule="evenodd"
+                                fillRule="evenodd"
+                                clipRule="evenodd"
                                 fill="#767676"
                                 d="M369.283,482.545l0.528-1.126l-1.364,0.595
 				C369.995,481.87,368.878,481.775,369.283,482.545z"
                             />
                             <polygon
                                 display="none"
-                                fill-rule="evenodd"
-                                clip-rule="evenodd"
+                                fillRule="evenodd"
+                                clipRule="evenodd"
                                 fill="#6B6C6C"
                                 points="729.038,437.248 729.507,436.925 
 				728.532,436.195 			"
                             />
                             <polygon
                                 display="none"
-                                fill-rule="evenodd"
-                                clip-rule="evenodd"
+                                fillRule="evenodd"
+                                clipRule="evenodd"
                                 fill="#848484"
                                 points="698.468,477.916 699.308,478.597 
 				698.849,477.469 			"
                             />
                             <polygon
                                 display="none"
-                                fill-rule="evenodd"
-                                clip-rule="evenodd"
+                                fillRule="evenodd"
+                                clipRule="evenodd"
                                 fill="#C1C0C0"
                                 points="536.404,856.299 537.039,855.1 
 				536.077,855.93 			"
                             />
                             <path
                                 display="none"
-                                fill-rule="evenodd"
-                                clip-rule="evenodd"
+                                fillRule="evenodd"
+                                clipRule="evenodd"
                                 fill="#7A7A7A"
                                 d="M359.23,388.529
 				c0.546-0.156,0.328,0.149,0.471-0.359c0.184-0.656,0.254-0.269-0.053-0.713L359.23,388.529L359.23,388.529z"
                             />
                             <polygon
                                 display="none"
-                                fill-rule="evenodd"
-                                clip-rule="evenodd"
+                                fillRule="evenodd"
+                                clipRule="evenodd"
                                 fill="#767676"
                                 points="285.872,67.216 286.389,66.136 
 				285.559,66.728 			"
                             />
                             <polygon
                                 display="none"
-                                fill-rule="evenodd"
-                                clip-rule="evenodd"
+                                fillRule="evenodd"
+                                clipRule="evenodd"
                                 fill="#979797"
                                 points="683.962,487.726 684.288,487.318 
 				683.473,486.543 			"
                             />
                             <polygon
                                 display="none"
-                                fill-rule="evenodd"
-                                clip-rule="evenodd"
+                                fillRule="evenodd"
+                                clipRule="evenodd"
                                 fill="#9C9C9D"
                                 points="646.518,326.866 646.882,326.508 
 				645.898,325.867 			"
                             />
                             <polygon
                                 display="none"
-                                fill-rule="evenodd"
-                                clip-rule="evenodd"
+                                fillRule="evenodd"
+                                clipRule="evenodd"
                                 fill="#7A7A7A"
                                 points="712.468,366.929 712.842,366.746 
 				711.938,365.934 			"
                             />
                             <polygon
                                 display="none"
-                                fill-rule="evenodd"
-                                clip-rule="evenodd"
+                                fillRule="evenodd"
+                                clipRule="evenodd"
                                 fill="#404040"
                                 points="799.714,481.96 800.013,481.619 
 				799.281,480.942 			"
                             />
                             <polygon
                                 display="none"
-                                fill-rule="evenodd"
-                                clip-rule="evenodd"
+                                fillRule="evenodd"
+                                clipRule="evenodd"
                                 fill="#9E9E9E"
                                 points="291.437,908.032 292.053,907.221 
 				291.095,907.855 			"
                             />
                             <polygon
                                 display="none"
-                                fill-rule="evenodd"
-                                clip-rule="evenodd"
+                                fillRule="evenodd"
+                                clipRule="evenodd"
                                 fill="#8B8A8A"
                                 points="819.955,362.988 820.195,362.752 
 				819.219,362.14 			"
                             />
                             <path
                                 display="none"
-                                fill-rule="evenodd"
-                                clip-rule="evenodd"
+                                fillRule="evenodd"
+                                clipRule="evenodd"
                                 fill="#454545"
                                 d="M384.94,972.404l0.06-0.634L384.94,972.404z"
                             />
@@ -2337,19 +2337,19 @@ const MonkeFill = () => {
                             x="36.302"
                             y="2.499"
                             display="none"
-                            fill-rule="evenodd"
-                            clip-rule="evenodd"
+                            fillRule="evenodd"
+                            clipRule="evenodd"
                             fill="#ED1C24"
                             stroke="url(#SVGID_00000012440233811885572350000017867169817774096514_)"
-                            stroke-width="0.4997"
-                            stroke-miterlimit="10"
+                            strokeWidth="0.4997"
+                            strokeMiterlimit="10"
                             width="931.364"
                             height="995.001"
                         />
                         <g>
                             <path
-                                fill-rule="evenodd"
-                                clip-rule="evenodd"
+                                fillRule="evenodd"
+                                clipRule="evenodd"
                                 fill="#010101"
                                 d="M141.864,892.284l2.314,0.258
 				c0.254,1.566,0.314,1.339-0.276,2.503c0.222,7.641-6.647,18.431-12.823,22.891c-3.345,2.415-8.46,5.066-13.938,3.379
@@ -2797,8 +2797,8 @@ const MonkeFill = () => {
 				L434.232,32.51z"
                             />
                             <path
-                                fill-rule="evenodd"
-                                clip-rule="evenodd"
+                                fillRule="evenodd"
+                                clipRule="evenodd"
                                 fill="#FFFFFF"
                                 d="M361.419,897.957c-5.803-1.597-9.712-21.446-9.585-29.195
 				c0.158-9.647,3.95-25.034,10.823-27.648c0.066,0.1,0.137,0.24,0.17,0.316l0.395,0.979c0.712,2.727-0.444,20.808-0.515,24.182
@@ -2959,8 +2959,8 @@ const MonkeFill = () => {
 				L258.643,392.351z"
                             />
                             <path
-                                fill-rule="evenodd"
-                                clip-rule="evenodd"
+                                fillRule="evenodd"
+                                clipRule="evenodd"
                                 fill="#FFFFFF"
                                 d="M226.034,239.349c0.485-6.089,8.93-17.888,14.13-22.375
 				c7.275-6.277,12.519-9.564,16.864-19.818c1.724-4.069,4.633-15.516,7.973-17.154c2.65,5.334,4.746,14.758,3.365,21.964
@@ -3040,8 +3040,8 @@ const MonkeFill = () => {
 				c-4.748,4.847-9.023,9.866-12.544,16.592L278.967,153.479z"
                             />
                             <path
-                                fill-rule="evenodd"
-                                clip-rule="evenodd"
+                                fillRule="evenodd"
+                                clipRule="evenodd"
                                 fill="#FFFFFF"
                                 d="M791.704,481.986l-0.299,0.341
 				c0.774,3.673,2.717,7.755,3.899,11.333c4.352,13.173,3.227,27.115-0.551,40.04c-4.77,16.313-15.28,25.581-19.598,41.09
@@ -3203,8 +3203,8 @@ const MonkeFill = () => {
 				c-4.735,9.683-10.81,14.444-17.008,20.455L263.067,112.264z"
                             />
                             <path
-                                fill-rule="evenodd"
-                                clip-rule="evenodd"
+                                fillRule="evenodd"
+                                clipRule="evenodd"
                                 fill="#FFFFFF"
                                 d="M804.038,291.49c-0.036-1.989,0.046-0.784-0.41-1.251
 				c-9.238,10.397-16.892,20.415-30.057,27.939c-6.664,3.809-12.897,5.97-21.192,7.605c-6.243,1.231-21.889,5.218-23.15-2.451
@@ -3230,8 +3230,8 @@ const MonkeFill = () => {
 				L804.038,291.49z"
                             />
                             <path
-                                fill-rule="evenodd"
-                                clip-rule="evenodd"
+                                fillRule="evenodd"
+                                clipRule="evenodd"
                                 fill="#FFFFFF"
                                 d="M450.51,677.403c-0.471-6.207,0.946-12.239,2.96-17.371
 				c1.451-3.697,5.411-10.944,8.385-11.731C466.857,658.121,458.983,676.784,450.51,677.403z M460.798,679.31
@@ -3255,8 +3255,8 @@ const MonkeFill = () => {
 				L295.707,769.263z"
                             />
                             <path
-                                fill-rule="evenodd"
-                                clip-rule="evenodd"
+                                fillRule="evenodd"
+                                clipRule="evenodd"
                                 fill="#FFFFFF"
                                 d="M166.638,406.756c7.704-2.818,5.263-6.43,23.297-9.023
 				c4.789-0.689,10.215-1.282,15.114-1.234c6.082,0.06,8.306,1.508,13.174,3.18c9.101,3.127,16.097,4.934,19.787,12.535
@@ -3274,8 +3274,8 @@ const MonkeFill = () => {
 				L166.638,406.756z"
                             />
                             <path
-                                fill-rule="evenodd"
-                                clip-rule="evenodd"
+                                fillRule="evenodd"
+                                clipRule="evenodd"
                                 fill="#FFFFFF"
                                 d="M699.26,232.58c-0.714-11.409-9.103-27.706-17.156-34.889
 				c-1.332-1.188-3.373-2.076-2.569-4.619c6.206-2.313,16.895,5.446,20.625,9.276c13.594,13.958,11.25,29.591,14.498,46.658
@@ -3286,8 +3286,8 @@ const MonkeFill = () => {
 				L699.26,232.58z"
                             />
                             <path
-                                fill-rule="evenodd"
-                                clip-rule="evenodd"
+                                fillRule="evenodd"
+                                clipRule="evenodd"
                                 fill="#FFFFFF"
                                 d="M178.007,824.271c0.094,0.697-0.102,0.517,0.612,0.517
 				l60.611-68.115c2.444-3.119,18.333-21.031,21.426-23.558c1.276-1.042,2.254-2.007,3.511-3.04
@@ -3299,8 +3299,8 @@ const MonkeFill = () => {
 				c-0.202,2.496-2.07,3.61-4.106,10.384c-1.012,3.366-2.681,8.28-2.979,11.881L178.007,824.271z"
                             />
                             <path
-                                fill-rule="evenodd"
-                                clip-rule="evenodd"
+                                fillRule="evenodd"
+                                clipRule="evenodd"
                                 fill="#FFFFFF"
                                 d="M782.428,233.029c-3.477-0.565-4.785-5.18-7.644-10.13
 				c-6.007-10.405-8.236-12.343-17.658-18.139c-3.112-1.914-7.963-5.254-11.146-6.694c1.064,5.524,9.041,13.942,12.46,19.786
@@ -3312,8 +3312,8 @@ const MonkeFill = () => {
 				c6.802,7.997,15.765,28.943,10.27,36.759L782.428,233.029z"
                             />
                             <path
-                                fill-rule="evenodd"
-                                clip-rule="evenodd"
+                                fillRule="evenodd"
+                                clipRule="evenodd"
                                 fill="#FFFFFF"
                                 d="M148.776,579.092c2.795-3.202,6.006-16.661,7.158-21.87
 				l1.964-8.215c5.704,3.614,2.991,30.688-1.221,39.945c-4.062,8.927-12.755,17.831-19.803,24.705
@@ -3328,8 +3328,8 @@ const MonkeFill = () => {
 				c0.351,5.039,0.534,10.173,0.531,15.249c-0.004,4.381-0.796,11.271-0.408,15.136L148.776,579.092z"
                             />
                             <path
-                                fill-rule="evenodd"
-                                clip-rule="evenodd"
+                                fillRule="evenodd"
+                                clipRule="evenodd"
                                 fill="#010101"
                                 d="M536.506,456.4l0.768,0.972
 				c-1.683,0.134-2.283,0.219-3.504-0.468c-9.959,0.759-64.762-12.826-72.381-10.529c-0.262,0.502-0.325,0.219-0.167,1.129
@@ -3341,8 +3341,8 @@ const MonkeFill = () => {
 				c4.48,6.156,10.3,9.494,16.919,13.765l19.519,11.875L536.506,456.4z"
                             />
                             <path
-                                fill-rule="evenodd"
-                                clip-rule="evenodd"
+                                fillRule="evenodd"
+                                clipRule="evenodd"
                                 fill="#010101"
                                 d="M593.735,424.156l2.059,0.125
 				c0.564-0.509,0.771,0.771,0.357-0.803c-1.978-8.81-10.61-15.085-18.779-17.96c-10.25-3.606-19.285-4.766-30.484-6.652
@@ -3355,8 +3355,8 @@ const MonkeFill = () => {
 				c-3.025-4.74-6.122-7.678-9.619-10.92c6.181-0.898,16.368,4.816,23.492,4.977L593.735,424.156z"
                             />
                             <path
-                                fill-rule="evenodd"
-                                clip-rule="evenodd"
+                                fillRule="evenodd"
+                                clipRule="evenodd"
                                 fill="#FFFFFF"
                                 d="M450.002,567.099c-0.188-0.273-0.444-0.699-0.724-1.038
 				c-10.028-0.552-24.377-8.988-40.377,4.411c-14.696,12.306-11.806,21.724-16.371,34.753c-6.734-1.835-3.616-21.014-15.901-23.298
@@ -3370,8 +3370,8 @@ const MonkeFill = () => {
 				L450.002,567.099z"
                             />
                             <path
-                                fill-rule="evenodd"
-                                clip-rule="evenodd"
+                                fillRule="evenodd"
+                                clipRule="evenodd"
                                 fill="#010101"
                                 d="M360.974,482.912c-0.405-0.77,0.713-0.675-0.836-0.531
 				l-23.946,15.376l-6.44,6.645c-2.041,2.226-6.454,7.738-8.699,8.802c0.053-4.001,1.381-8.869,1.789-13.038
@@ -3383,8 +3383,8 @@ const MonkeFill = () => {
 				c2.406-3.045,4.516-4.325,6.844-7.879L360.974,482.912z"
                             />
                             <path
-                                fill-rule="evenodd"
-                                clip-rule="evenodd"
+                                fillRule="evenodd"
+                                clipRule="evenodd"
                                 fill="#010101"
                                 d="M450.258,801.675c-0.042,1.357-0.169,0.722,1.446,0.615
 				c3.793-0.079,15.211-5.715,18.445-7.661c10.233-6.159,18.459-18.35,24.845-28.422c3.528-5.565,6.831-10.697,10.553-16.082
@@ -3395,8 +3395,8 @@ const MonkeFill = () => {
 				c-3.449,3.486-12.041,11.558-14.256,14.866L450.258,801.675z"
                             />
                             <path
-                                fill-rule="evenodd"
-                                clip-rule="evenodd"
+                                fillRule="evenodd"
+                                clipRule="evenodd"
                                 fill="#FFFFFF"
                                 d="M765.7,406.743l-0.478,0.491
 				c1.124,9.785,16.478,27.048,25.333,32.212c2.582,1.506,5.038,2.555,7.598,4.191c33.154,21.176,7.558,54.047,24.189,78.863
@@ -3407,8 +3407,8 @@ const MonkeFill = () => {
 				C776.518,418.011,771.901,412.312,765.7,406.743L765.7,406.743z"
                             />
                             <path
-                                fill-rule="evenodd"
-                                clip-rule="evenodd"
+                                fillRule="evenodd"
+                                clipRule="evenodd"
                                 fill="#FFFFFF"
                                 d="M638.11,653.48c0.024,12.321,2.94,21.476,6.077,32.389
 				c1.359,4.726,2.791,10.314,4.797,14.412c1.576,3.219,5.931,9.9,5.968,13.289c-4.833,1.19-11.418-8.048-14.077-9.764
@@ -3419,8 +3419,8 @@ const MonkeFill = () => {
 				c-5.46,5.064-7.809,19.159-7.79,28.699L638.11,653.48z"
                             />
                             <path
-                                fill-rule="evenodd"
-                                clip-rule="evenodd"
+                                fillRule="evenodd"
+                                clipRule="evenodd"
                                 fill="#FFFFFF"
                                 d="M721.197,437.292l-0.469,0.323
 				c0.527,5.354,6.315,16.292,8.716,20.606c9.978,17.933,25.034,16.275,35.154,38.202c1.586,3.436,2.291,7.42,3.873,10.604
@@ -3433,8 +3433,8 @@ const MonkeFill = () => {
 				z"
                             />
                             <path
-                                fill-rule="evenodd"
-                                clip-rule="evenodd"
+                                fillRule="evenodd"
+                                clipRule="evenodd"
                                 fill="#FFFFFF"
                                 d="M350.921,388.896l0.417-1.072
 				c-1.195-4.665-3.752-8.069-4.353-13.419c-1.071-9.539,2.803-14.441,6.8-19.773c8.14-10.86,12.169-14.099,26.008-18.964
@@ -3444,8 +3444,8 @@ const MonkeFill = () => {
 				c-3.146,10.327-10.653,34.117-3.579,43.765C342.944,390.964,346.938,389.149,350.921,388.896L350.921,388.896z"
                             />
                             <path
-                                fill-rule="evenodd"
-                                clip-rule="evenodd"
+                                fillRule="evenodd"
+                                clipRule="evenodd"
                                 fill="#FFFFFF"
                                 d="M675.979,487.685l-0.326,0.41
 				c0.807,2.483,5.833,10.194,8.294,16.069c4.826,11.52,15.425,56.01,8.666,60.46c-1.948-2.48-2.911-11.083-4.032-14.872
@@ -3455,8 +3455,8 @@ const MonkeFill = () => {
 				c3.862-22.567-4.301-39.008-15.563-56.281c-3.531-5.415-12.71-18.364-17.875-19.672L675.979,487.685z"
                             />
                             <path
-                                fill-rule="evenodd"
-                                clip-rule="evenodd"
+                                fillRule="evenodd"
+                                clipRule="evenodd"
                                 fill="#010101"
                                 d="M296.798,176.633c-0.239,2.02-0.218,0.658,0.354,1.22
 				c3.369-1.35,3.269-5.055,11.986-8.937c10.994-4.896,17.718-5.016,29.073-13.275c1.843-1.34,4.646-3.277,5.918-4.571
@@ -3467,8 +3467,8 @@ const MonkeFill = () => {
 				V176.633z"
                             />
                             <path
-                                fill-rule="evenodd"
-                                clip-rule="evenodd"
+                                fillRule="evenodd"
+                                clipRule="evenodd"
                                 fill="#FFFFFF"
                                 d="M724.03,557.819c0.446,4.346-2.164,14.466-2.965,19.197
 				c-1.148,6.781-1.303,14.396-1.294,21.442c0.019,15.487,2.627,24.471,7.701,37.295c2.255,5.7,4.352,10.09,7.549,14.713
@@ -3477,8 +3477,8 @@ const MonkeFill = () => {
 				l-0.836,1.002L724.03,557.819z"
                             />
                             <path
-                                fill-rule="evenodd"
-                                clip-rule="evenodd"
+                                fillRule="evenodd"
+                                clipRule="evenodd"
                                 fill="#FFFFFF"
                                 d="M108.656,887.92l1.347,0.241
 				c-0.199-1.621-0.697-2.546,0.404-3.527c0.487-2.201,1.723-3.443,4.269-3.816c6.461,2.249,14.109,24.705-1.302,19.397
@@ -3490,8 +3490,8 @@ const MonkeFill = () => {
 				c6.176-4.459,13.045-15.25,12.823-22.891H143.901z"
                             />
                             <path
-                                fill-rule="evenodd"
-                                clip-rule="evenodd"
+                                fillRule="evenodd"
+                                clipRule="evenodd"
                                 fill="#010101"
                                 d="M452.254,183.499c7.572,1.072,16.636-1.592,22.938,1.9
 				c-3.233,2.124-7.068,2.6-12.53,9.125c-2.1,2.509-4.288,5.508-4.894,8.898c4.498-0.559,18-3.775,23.799-4.381
@@ -3500,8 +3500,8 @@ const MonkeFill = () => {
 				l-11.202-6.703c-14.339-8.722-33.137-19.106-50.219-20.45c-7.608-0.598-25.965,1.877-26.095,9.017L452.254,183.499z"
                             />
                             <path
-                                fill-rule="evenodd"
-                                clip-rule="evenodd"
+                                fillRule="evenodd"
+                                clipRule="evenodd"
                                 fill="#FFFFFF"
                                 d="M154.738,496.216c4.233,8.83,23.15,9.718,22.732,21.461
 				c-4.339,0.04-6.161-2.143-9.904-2.666c0.942,2.7,3.721,6.102,5.283,9.108c3.868,7.443,5.896,11.544,13.648,15.606
@@ -3511,8 +3511,8 @@ const MonkeFill = () => {
 				L154.738,496.216z"
                             />
                             <path
-                                fill-rule="evenodd"
-                                clip-rule="evenodd"
+                                fillRule="evenodd"
+                                clipRule="evenodd"
                                 fill="#FFFFFF"
                                 d="M692.703,643.986l-0.862-0.058
 				c-0.266,9.043-0.866,18.388,0.528,27.361c1.364,8.783,17.643,34.266,11.885,58.386c-0.91,3.813-3.202,8.009-3.672,11.034
@@ -3522,8 +3522,8 @@ const MonkeFill = () => {
 				L692.703,643.986z"
                             />
                             <path
-                                fill-rule="evenodd"
-                                clip-rule="evenodd"
+                                fillRule="evenodd"
+                                clipRule="evenodd"
                                 fill="#FFFFFF"
                                 d="M531.213,889.717c0.024,1.546-0.376,1.667,0.378,2.532
 				c1.982-5.538,5.555-13.497,8.635-17.481c2.123-2.744,3.96-4.536,6.135-6.963c3.703-4.133,5.741-6.274,10.048-9.602
@@ -3532,8 +3532,8 @@ const MonkeFill = () => {
 				c-8.823,10.133-28.759,14.99-37.899,41.57c-1.518,4.414-4.331,15.416-4.181,20.218L531.213,889.717z"
                             />
                             <path
-                                fill-rule="evenodd"
-                                clip-rule="evenodd"
+                                fillRule="evenodd"
+                                clipRule="evenodd"
                                 fill="#FFFFFF"
                                 d="M539.771,822.98c-0.947,0.451,1.199,0.602-1.198,0.324
 				l0.48-0.824c1.266-3.668,3.954-6.988,5.853-10.279c1.986-3.443,3.271-7.326,5.309-10.855c2.551-4.417,9.719-16.566,10.575-21.585
@@ -3543,8 +3543,8 @@ const MonkeFill = () => {
 				C553.196,814.411,546.283,820.88,539.771,822.98L539.771,822.98z"
                             />
                             <path
-                                fill-rule="evenodd"
-                                clip-rule="evenodd"
+                                fillRule="evenodd"
+                                clipRule="evenodd"
                                 fill="#010101"
                                 d="M375.299,184.454c12.767,2.839,18.799-3.561,26.534-8.41
 				c5.651-3.544,7.578-7.144,12.026-12.857c3.818-4.902,10.198-12.494,15.236-15.331c1.875-1.055,2.815-1.256,3.149-3.751
@@ -3553,8 +3553,8 @@ const MonkeFill = () => {
 				C377.122,181.044,375.62,181.474,375.299,184.454z"
                             />
                             <path
-                                fill-rule="evenodd"
-                                clip-rule="evenodd"
+                                fillRule="evenodd"
+                                clipRule="evenodd"
                                 fill="#010101"
                                 d="M255.35,661.436l0.015,1.711l4.907-0.017l6.208-8.473
 				c2.224-3.06,3.864-5.703,5.914-8.934c5.079-8.007,5.996-11.344,7.356-22.328c1.294-10.451,2.088-14.994,5.451-24.249
@@ -3563,8 +3563,8 @@ const MonkeFill = () => {
 				L255.35,661.436z"
                             />
                             <path
-                                fill-rule="evenodd"
-                                clip-rule="evenodd"
+                                fillRule="evenodd"
+                                clipRule="evenodd"
                                 fill="#FFFFFF"
                                 d="M618.2,808.689c0.118,1.248-0.035,2.018-0.16,3.32
 				c-0.021,0.219-0.135,1.632-0.118,1.762c0.249,2.014-0.124,0.583,0.601,1.288c0.983-3.144,4.063-8.619,5.591-11.859
@@ -3574,8 +3574,8 @@ const MonkeFill = () => {
 				L618.2,808.689z"
                             />
                             <path
-                                fill-rule="evenodd"
-                                clip-rule="evenodd"
+                                fillRule="evenodd"
+                                clipRule="evenodd"
                                 fill="#010101"
                                 d="M224.37,550.778c4.55,1.585,7.582-6.747,12.783-0.158
 				c3.195,4.048,12.467,14.794,14.011,18.02c-3.384,1.953-9.133,6.713-9.351,11.986c-0.291,7.024,9.627-2.261,12.534-4.05
@@ -3583,8 +3583,8 @@ const MonkeFill = () => {
 				c-3.297,0.895-11.088,6.741-11.423,10.218L224.37,550.778z"
                             />
                             <path
-                                fill-rule="evenodd"
-                                clip-rule="evenodd"
+                                fillRule="evenodd"
+                                clipRule="evenodd"
                                 fill="#FFFFFF"
                                 d="M638.573,326.875l-0.365,0.357
 				c0.598,1.77,2.522,4.22,3.749,5.822c1.369,1.786,2.683,3.73,3.874,5.726c3.85,6.449,3.299,4.139,9.235,9.983
@@ -3593,8 +3593,8 @@ const MonkeFill = () => {
 				c-2.768-2.548-19.878-13.871-24.224-14.587L638.573,326.875z"
                             />
                             <path
-                                fill-rule="evenodd"
-                                clip-rule="evenodd"
+                                fillRule="evenodd"
+                                clipRule="evenodd"
                                 fill="#FFFFFF"
                                 d="M811.885,363.119l-0.24,0.237
 				c0.79,1.875,11.492,16.305,13.386,18.468c8.677,9.903,18.09,8.206,19.552,12.67c-6.745,2.438-24.784-4.931-29.333-8.13
@@ -3603,8 +3603,8 @@ const MonkeFill = () => {
 				C842.593,382.678,818.403,364.312,811.885,363.119z"
                             />
                             <path
-                                fill-rule="evenodd"
-                                clip-rule="evenodd"
+                                fillRule="evenodd"
+                                clipRule="evenodd"
                                 fill="#010101"
                                 d="M415.395,493.117c1.431,1.686,6.902,2.217,9.638,2.789
 				c3.988,0.833,6.064,2.243,9.28,3.378c-2.659,2.566-12.25,2.199-13.596,6.154c2.146,0.68,26.96,2.467,35.039,4.714
@@ -3612,8 +3612,8 @@ const MonkeFill = () => {
 				C447.306,488.546,427.701,487.95,415.395,493.117L415.395,493.117z"
                             />
                             <path
-                                fill-rule="evenodd"
-                                clip-rule="evenodd"
+                                fillRule="evenodd"
+                                clipRule="evenodd"
                                 fill="#FFFFFF"
                                 d="M514.971,606.42l1.001,0.389
 				c4.938-13.966,8.34-29.305,7.195-44.622c-0.208-2.789-2.301-2.946-4.373-4.178c-2.08-1.236-2.982-2.68-5.095-3.665
@@ -3622,8 +3622,8 @@ const MonkeFill = () => {
 				c5.109,3.425,13.901,9.615,17.542,13.893C506.826,583.74,514.628,594.081,514.971,606.42L514.971,606.42z"
                             />
                             <path
-                                fill-rule="evenodd"
-                                clip-rule="evenodd"
+                                fillRule="evenodd"
+                                clipRule="evenodd"
                                 fill="#010101"
                                 d="M301.783,264.474c-5.345,0.141-17.253,7.473-21.208,12.119
 				c-8.739,10.269-11.524,20.459-17.522,32.688c-1.864,3.8-3.776,7.533-5.245,11.8c-1.554,4.512-2.038,9.702-0.253,14.364
@@ -3632,8 +3632,8 @@ const MonkeFill = () => {
 				L301.783,264.474z"
                             />
                             <path
-                                fill-rule="evenodd"
-                                clip-rule="evenodd"
+                                fillRule="evenodd"
+                                clipRule="evenodd"
                                 fill="#FFFFFF"
                                 d="M363.072,383.639c1.777-0.333,5.504-1.93,6.856-2.713
 				c-0.871-2.222-2.94-2.988-3.437-10.421c-0.974-14.572,21.878-19.993,22.55-7.875c0.315,5.688-3.487,6.77-6.127,2.011
@@ -3642,16 +3642,16 @@ const MonkeFill = () => {
 				c-7.729,1.77-11.314,7.584-14.16,14.667c-3.657,9.103-0.342,15.647,2.848,22.992L363.072,383.639z"
                             />
                             <path
-                                fill-rule="evenodd"
-                                clip-rule="evenodd"
+                                fillRule="evenodd"
+                                clipRule="evenodd"
                                 fill="#FFFFFF"
                                 d="M678.088,419.202c-2.429-3.82-6.575-12.189-10.459-18.367
 				c-3.828-6.088-8.197-12.618-12.668-17.027c-6.212-6.125-25.013-19.771-37.526-22.105c4.009,6.743,22.056,27.05,27.081,32.115
 				C648.055,397.384,672.603,418.004,678.088,419.202L678.088,419.202z"
                             />
                             <path
-                                fill-rule="evenodd"
-                                clip-rule="evenodd"
+                                fillRule="evenodd"
+                                clipRule="evenodd"
                                 fill="#FFFFFF"
                                 d="M155.085,886.48c0.835,2.825,1.038,0.824,3.155,5.084
 				c0.484,0.974-0.147,0.073,0.485,0.86c0.915,1.137,0.07,0.313,1.111,0.94c1.162-3.361,28.308-45.408,30.585-48.833
@@ -3660,8 +3660,8 @@ const MonkeFill = () => {
 				c-5.581,7.869-3.592,6.584-6.189,13.46l-5.618,14.024c-1.89,4.108-12.403,20.166-16.586,22.717L155.085,886.48z"
                             />
                             <path
-                                fill-rule="evenodd"
-                                clip-rule="evenodd"
+                                fillRule="evenodd"
+                                clipRule="evenodd"
                                 fill="#010101"
                                 d="M302.857,343.398c2.438-1.226,3.953-5.418,5.296-8.222
 				c1.446-3.022,3.126-6.491,4.761-8.763c4.186-5.816,5.839-11.422,9.118-17.955c3.779-7.527,20.178-26.687,20.619-33.956
@@ -3669,8 +3669,8 @@ const MonkeFill = () => {
 				C302.155,327.236,299.613,336.468,302.857,343.398L302.857,343.398z"
                             />
                             <path
-                                fill-rule="evenodd"
-                                clip-rule="evenodd"
+                                fillRule="evenodd"
+                                clipRule="evenodd"
                                 fill="#010101"
                                 d="M190.992,323.672c0.841,2.77,4.12,4.363,6.965,5.886
 				c11.209,6,12.165,4.493,24.114,14.306c4.256,3.495,9.465,8.329,14.646,11.124c5.119,2.761,6.987,4.9,10.918,8.278
@@ -3678,8 +3678,8 @@ const MonkeFill = () => {
 				L190.992,323.672z"
                             />
                             <path
-                                fill-rule="evenodd"
-                                clip-rule="evenodd"
+                                fillRule="evenodd"
+                                clipRule="evenodd"
                                 fill="#010101"
                                 d="M406.653,886.936c3.997-1.191,6.864-7.714,8.772-12.116
 				c3.306-7.628-0.371-6.036,4.283-16.667l9.796-21.22c1.329-2.393,3.322-3.781,4.229-6.217c-8.084-1.185-16.205,8.857-17.762,9.562
@@ -3687,8 +3687,8 @@ const MonkeFill = () => {
 				C407.184,868.033,404.437,876.286,406.653,886.936L406.653,886.936z"
                             />
                             <path
-                                fill-rule="evenodd"
-                                clip-rule="evenodd"
+                                fillRule="evenodd"
+                                clipRule="evenodd"
                                 fill="#FFFFFF"
                                 d="M425.496,645.121c-5.738-1.415-8.637-9.778-8.253-17.139
 				C422.857,629.009,428.806,637.938,425.496,645.121z M428.855,671.61c4.669-5.057,3.362-29.17,0.813-36.246
@@ -3696,8 +3696,8 @@ const MonkeFill = () => {
 				C424.594,650.461,423.528,665.177,428.855,671.61L428.855,671.61z"
                             />
                             <path
-                                fill-rule="evenodd"
-                                clip-rule="evenodd"
+                                fillRule="evenodd"
+                                clipRule="evenodd"
                                 fill="#010101"
                                 d="M513.308,781.898c-0.309,1.354-0.29,0.476,0.457,0.842
 				c6.809-1.015,11.552-6.383,15.36-9.475c8.341-6.773,16.841-19.731,18.531-31.641c1.035-7.286-0.182-16.945-4.319-20.761
@@ -3705,8 +3705,8 @@ const MonkeFill = () => {
 				C516.293,777.045,514.239,778.739,513.308,781.898L513.308,781.898z"
                             />
                             <path
-                                fill-rule="evenodd"
-                                clip-rule="evenodd"
+                                fillRule="evenodd"
+                                clipRule="evenodd"
                                 fill="#FFFFFF"
                                 d="M893.409,407.739l0.515-0.544
 				c-0.426-4.909-6.941-17.772-9.252-21.712c-7.002-11.933-19.275-24.501-30.415-32.458l-13.713-9.872
@@ -3714,8 +3714,8 @@ const MonkeFill = () => {
 				c5.149,5.084,15.452,14.704,18.386,20.887H893.409z"
                             />
                             <path
-                                fill-rule="evenodd"
-                                clip-rule="evenodd"
+                                fillRule="evenodd"
+                                clipRule="evenodd"
                                 fill="#010101"
                                 d="M492.428,294.537c0.694,2.482,2.894,3.619,5.245,4.659
 				c2.78,1.229,4.281,2.785,6.413,3.635c2.48,0.988,5.499,1.133,8.103,1.931l22.896,7.241c3.891,1.437,10.914,4.308,14.941,5.145
@@ -3723,24 +3723,24 @@ const MonkeFill = () => {
 				L492.428,294.537z"
                             />
                             <path
-                                fill-rule="evenodd"
-                                clip-rule="evenodd"
+                                fillRule="evenodd"
+                                clipRule="evenodd"
                                 fill="#010101"
                                 d="M226.034,239.349c1.809-1.683,2.738-3.842,6.307-7.074
 				c11.239-10.176,32.708-13.01,36.024-30.309c1.381-7.206-0.715-16.63-3.365-21.964c-3.339,1.639-6.249,13.086-7.973,17.154
 				c-4.345,10.254-9.59,13.541-16.864,19.818C234.964,221.462,226.519,233.26,226.034,239.349L226.034,239.349z"
                             />
                             <path
-                                fill-rule="evenodd"
-                                clip-rule="evenodd"
+                                fillRule="evenodd"
+                                clipRule="evenodd"
                                 fill="#FFFFFF"
                                 d="M690.159,478.283l0.381-0.447
 				c-1.34-7.905-12.048-26.041-16.093-31.421c-3.883-5.164-18.656-18.836-26.255-21.762c0.804,4.378,8.321,19.257,11.106,24.246
 				c3.937,7.052,11.295,13.685,17.606,18.642c3.116,2.447,10.358,9.452,13.255,10.742L690.159,478.283z"
                             />
                             <path
-                                fill-rule="evenodd"
-                                clip-rule="evenodd"
+                                fillRule="evenodd"
+                                clipRule="evenodd"
                                 fill="#010101"
                                 d="M441.878,426.524l-0.425,1.363l1.185-0.215
 				c3.511-0.453,11.634-6.726,13.522-8.627c3.615-3.642,6.291-8.141,9.172-13.528c2.445-4.569,5.015-10.51,5.544-16.711
@@ -3748,8 +3748,8 @@ const MonkeFill = () => {
 				c-2.121,5.059-3.58,10.604-5.622,15.78c-2.362,5.987-14.367,24.826-14.375,28.789L441.878,426.524z"
                             />
                             <path
-                                fill-rule="evenodd"
-                                clip-rule="evenodd"
+                                fillRule="evenodd"
+                                clipRule="evenodd"
                                 fill="#010101"
                                 d="M138.252,404.142c2.971-1.339,3.11-7.413,7.823-14.02
 				c1.589-2.227,3.139-3.317,4.951-5.984c1.527-2.249,2.954-4.184,4.656-6.239c3.328-4.018,7.586-5.695,13.278-8.565
@@ -3757,46 +3757,46 @@ const MonkeFill = () => {
 				c-3.973,3.872-8.038,8.171-10.944,14.389C136.472,388.344,134.011,400.402,138.252,404.142L138.252,404.142z"
                             />
                             <path
-                                fill-rule="evenodd"
-                                clip-rule="evenodd"
+                                fillRule="evenodd"
+                                clipRule="evenodd"
                                 fill="#FFFFFF"
                                 d="M344.32,678.626c3.952-1.201,8.242-3.485,11.586-5.262
 				c2.949-1.567,8.941-4.555,9.115-8.062c0.388-7.815-7.313-20.446-11.096-23.602c-6.755,3.459-17.666,30.478-9.605,36.926H344.32z"
                             />
                             <path
-                                fill-rule="evenodd"
-                                clip-rule="evenodd"
+                                fillRule="evenodd"
+                                clipRule="evenodd"
                                 fill="#FFFFFF"
                                 d="M308.749,709.631c0.777,13.815,20.995,21.217,23.347,20.215
 				c0.327-0.139,7.622-10.121,5.642-13.396c-4.427-7.325-3.483-3.057-7.401-14.017C323.334,703.048,315.295,708.199,308.749,709.631
 				L308.749,709.631z"
                             />
                             <path
-                                fill-rule="evenodd"
-                                clip-rule="evenodd"
+                                fillRule="evenodd"
+                                clipRule="evenodd"
                                 fill="#FFFFFF"
                                 d="M304.525,694.511c3.246-1.097,13.175-7.412,17.55-9.572
 				c2.503-1.236,3.833-1.561,4.812-4.363c1.538-4.401-2.201-6.791-6.077-11.001c-1.939-2.106-6.668-7.138-11.038-7.407
 				c-0.856,2.048-2.224,3.844-3.289,6.747c-2.903,7.906-4.048,17.594-1.958,25.597V694.511z"
                             />
                             <path
-                                fill-rule="evenodd"
-                                clip-rule="evenodd"
+                                fillRule="evenodd"
+                                clipRule="evenodd"
                                 fill="#FFFFFF"
                                 d="M341.86,697.745c-0.968,7.191,8.407,14.133,12.359,18.768
 				c2.001,2.348,3.063,3.259,7.654,3.122c3.539-12.351,4.759-15.426,0.967-29.963c-5.949,0.432-16.734,5.382-20.98,8.073V697.745z"
                             />
                             <path
-                                fill-rule="evenodd"
-                                clip-rule="evenodd"
+                                fillRule="evenodd"
+                                clipRule="evenodd"
                                 fill="#010101"
                                 d="M361.419,897.957c2.08-6.095,1.124-23.539,1.288-31.365
 				c0.071-3.374,1.228-21.454,0.515-24.182l-0.395-0.979c-0.033-0.077-0.104-0.216-0.17-0.316
 				c-6.873,2.612-10.666,18.001-10.823,27.648c-0.127,7.749,3.783,27.597,9.585,29.195V897.957z"
                             />
                             <path
-                                fill-rule="evenodd"
-                                clip-rule="evenodd"
+                                fillRule="evenodd"
+                                clipRule="evenodd"
                                 fill="#FFFFFF"
                                 d="M747.069,441.751l0.096-0.456
 				c-1.514-2.649-8.582-10.039-12.712-16.473c-9.714-15.134-10.423-30.838-16.33-42.185c-1.899-3.649-11.196-14.005-13.591-15.524
@@ -3804,8 +3804,8 @@ const MonkeFill = () => {
 				c4.477,5.732,13.469,14.253,18.831,18.135L747.069,441.751z"
                             />
                             <path
-                                fill-rule="evenodd"
-                                clip-rule="evenodd"
+                                fillRule="evenodd"
+                                clipRule="evenodd"
                                 fill="#FFFFFF"
                                 d="M731.661,373.518c-0.658,8.374,6.417,32.737,12.263,40.516
 				c1.406,1.87,2.758,2.752,4.173,4.561c1.19,1.522,2.604,3.956,4.385,4.691c-0.401-2.433-1.26-4.745-1.743-7.3
@@ -3813,8 +3813,8 @@ const MonkeFill = () => {
 				c-0.859,0.756-0.597-1.242-0.602,1.724c-0.001,0.739,0.183,1.196,0.167,2.181L731.661,373.518z"
                             />
                             <path
-                                fill-rule="evenodd"
-                                clip-rule="evenodd"
+                                fillRule="evenodd"
+                                clipRule="evenodd"
                                 fill="#010101"
                                 d="M504.743,160.284c1.012,0.184,13.024-1.49,14.859-1.86
 				c4.714-0.946,8.479-3.398,11.37-5.615c6.871-5.267,12.629-10.383,9.371-23.354c-2.984,0.498-2.594,1.77-4.879,3.39
@@ -3822,32 +3822,32 @@ const MonkeFill = () => {
 				C506.222,157.484,505.727,157.224,504.743,160.284L504.743,160.284z"
                             />
                             <path
-                                fill-rule="evenodd"
-                                clip-rule="evenodd"
+                                fillRule="evenodd"
+                                clipRule="evenodd"
                                 fill="#010101"
                                 d="M460.798,679.31c7.743-1.597,14.923-10.045,17.854-16.794
 				c4.349-10.015,1.35-18.587-2.809-26.911c-1.353,1.061-4.428,6.896-5.568,8.921c-2.122,3.774-3.396,16.039-5.814,23.443
 				c-1.186,3.631-2.757,7.646-3.663,11.341L460.798,679.31z"
                             />
                             <path
-                                fill-rule="evenodd"
-                                clip-rule="evenodd"
+                                fillRule="evenodd"
+                                clipRule="evenodd"
                                 fill="#FFFFFF"
                                 d="M395.536,660.003c-0.731-0.011-0.521-0.184-0.589,0.569
 				c0.296,2.266,1.556,4.534,2.077,7.011c2.297,10.935,0,17.637,0.089,25.639c2.283,1.48,10.749,4.527,13.963,4.27
 				c5.516-2.775,0.009-29.923-15.541-37.487V660.003z"
                             />
                             <path
-                                fill-rule="evenodd"
-                                clip-rule="evenodd"
+                                fillRule="evenodd"
+                                clipRule="evenodd"
                                 fill="#FFFFFF"
                                 d="M589.923,293.505c2.32,0.127,1.012,0.484,1.531-0.523
 				c-0.88-0.463-12.376-10.096-23.095-15.139c-7.043-3.314-22.027-7.632-30.891-7.96c1.055,1.596,3.522,2.877,5.361,4.243
 				c1.83,1.36,3.784,2.753,5.569,4.034l10.914,7.863C562.554,288.013,585.391,293.585,589.923,293.505z"
                             />
                             <path
-                                fill-rule="evenodd"
-                                clip-rule="evenodd"
+                                fillRule="evenodd"
+                                clipRule="evenodd"
                                 fill="#010101"
                                 d="M154.508,347.716c4.456,1.293,9.559-0.554,14.316-0.442
 				c6.975,0.163,19.435,6.078,25.751,6.628c2.469,0.215,5.179-0.254,7.418,0.451c3.095,0.975,2.2,1.654,6.472,1.611
@@ -3855,40 +3855,40 @@ const MonkeFill = () => {
 				C164.054,343.032,156.636,345.165,154.508,347.716L154.508,347.716z"
                             />
                             <path
-                                fill-rule="evenodd"
-                                clip-rule="evenodd"
+                                fillRule="evenodd"
+                                clipRule="evenodd"
                                 fill="#010101"
                                 d="M110.406,884.633l0.033,3.927
 				c-1.542-0.18-0.761,0.231-1.784-0.641c-6.656-0.36-8.219-8.184-16.118-5.051c-0.539,6.469,3.535,9.077,7.818,11.153l13.018,6.191
 				c15.411,5.308,7.763-17.149,1.302-19.397c-2.547,0.373-3.782,1.615-4.269,3.816L110.406,884.633z"
                             />
                             <path
-                                fill-rule="evenodd"
-                                clip-rule="evenodd"
+                                fillRule="evenodd"
+                                clipRule="evenodd"
                                 fill="#FFFFFF"
                                 d="M793.059,412.412c0.662,0.037,0.485,0.191,0.506-0.483
 				c-0.994-6.32-4.188-20.519-6.822-25.438c-2.887-5.393-10.487-14.316-16.351-16.441l8.193,24.168
 				C781.569,401.68,786.499,410.016,793.059,412.412L793.059,412.412z"
                             />
                             <path
-                                fill-rule="evenodd"
-                                clip-rule="evenodd"
+                                fillRule="evenodd"
+                                clipRule="evenodd"
                                 fill="#FFFFFF"
                                 d="M305.9,737.837c6.741-10.139,4.217-9.801-2.809-17.784
 				c-1.419-1.612-2.302-4.303-3.411-6.625c-3.798-0.2-7.489,1.508-10.296,3.013c-6.192,3.319,6.489,21.418,16.515,21.396
 				L305.9,737.837z"
                             />
                             <path
-                                fill-rule="evenodd"
-                                clip-rule="evenodd"
+                                fillRule="evenodd"
+                                clipRule="evenodd"
                                 fill="#FFFFFF"
                                 d="M379.828,630.05c-1.701,2.995-5.325,11.97-6.322,15.5
 				c-0.827,2.93,0.322,13.643,10.352,9.057c11.409-5.216,7.334-8.264,5.406-12.015C386.576,637.367,385.239,632.017,379.828,630.05z
 				"
                             />
                             <path
-                                fill-rule="evenodd"
-                                clip-rule="evenodd"
+                                fillRule="evenodd"
+                                clipRule="evenodd"
                                 fill="#FFFFFF"
                                 d="M367.095,313.274l0.734,0.41
 				c6.35-0.539,11.67-5.365,18.825-5.629c6.14-0.226,14.803,2.45,20.604,3.836c12.306,2.937,12.845,7.727,18.863,17.83
@@ -3896,591 +3896,591 @@ const MonkeFill = () => {
 				C370.28,309.703,370.228,310.693,367.095,313.274L367.095,313.274z"
                             />
                             <path
-                                fill-rule="evenodd"
-                                clip-rule="evenodd"
+                                fillRule="evenodd"
+                                clipRule="evenodd"
                                 fill="#FFFFFF"
                                 d="M681.925,334.182l0.316-0.447
 				c-1.382-3.833-4.907-7.654-7.152-10.23c-3.659-4.197-13.409-13.125-18.35-17.03c-4.303-3.401-8.276-3.476-14.805-3.267
 				c0.071,0.091,0.196,0.102,0.235,0.256l19.12,15.919C664.955,322.425,676.753,332.917,681.925,334.182L681.925,334.182z"
                             />
                             <path
-                                fill-rule="evenodd"
-                                clip-rule="evenodd"
+                                fillRule="evenodd"
+                                clipRule="evenodd"
                                 fill="#FFFFFF"
                                 d="M617.943,343.417c-1.467-2.523-8.644-9.097-11.355-11.233
 				c-6.612-5.205-20.378-19.354-32.372-18.208c1.804,3.396,5.147,5.374,9.239,8.597
 				C590.602,328.199,609.377,342.515,617.943,343.417z"
                             />
                             <path
-                                fill-rule="evenodd"
-                                clip-rule="evenodd"
+                                fillRule="evenodd"
+                                clipRule="evenodd"
                                 fill="#FFFFFF"
                                 d="M262.73,709.818c3.337,0.413,8.471-3.445,11.289-4.817
 				c3.655-1.779,8.381-3.158,12.875-3.816c-0.006-2.743-1.908-10.292-2.996-12.583c-3.763-7.921-12.535,7.928-14.996,11.721
 				C266.254,704.408,262.95,706.613,262.73,709.818L262.73,709.818z"
                             />
                             <path
-                                fill-rule="evenodd"
-                                clip-rule="evenodd"
+                                fillRule="evenodd"
+                                clipRule="evenodd"
                                 fill="#010101"
                                 d="M450.51,677.403c8.474-0.62,16.347-19.282,11.346-29.102
 				c-2.974,0.786-6.934,8.034-8.385,11.731C451.455,665.165,450.039,671.196,450.51,677.403z"
                             />
                             <path
-                                fill-rule="evenodd"
-                                clip-rule="evenodd"
+                                fillRule="evenodd"
+                                clipRule="evenodd"
                                 fill="#FFFFFF"
                                 d="M686.516,137.869l28.361,9.795
 				c-0.888-2.845-8.603-8.222-11.671-9.505c-3.393-1.419-11.172-3.469-14.962-1.875c-1.792,0.754-1.108,0.391-1.729,1.585H686.516z"
                             />
                             <path
-                                fill-rule="evenodd"
-                                clip-rule="evenodd"
+                                fillRule="evenodd"
+                                clipRule="evenodd"
                                 fill="#010101"
                                 d="M425.496,645.121c3.311-7.183-2.639-16.113-8.253-17.139
 				C416.859,635.344,419.758,643.707,425.496,645.121z"
                             />
                             <path
-                                fill-rule="evenodd"
-                                clip-rule="evenodd"
+                                fillRule="evenodd"
+                                clipRule="evenodd"
                                 fill="#FFFFFF"
                                 d="M284.508,739.778c1.438-1.169,2.294-3.771,2.654-5.991
 				c-3.4-1.19-4.723-4.03-6.64-6.807C273.931,732.327,278.021,736.296,284.508,739.778L284.508,739.778z"
                             />
                             <path
-                                fill-rule="evenodd"
-                                clip-rule="evenodd"
+                                fillRule="evenodd"
+                                clipRule="evenodd"
                                 fill="#FFFFFF"
                                 d="M325.078,370.038l0.922,1.31
 				c1.111-4.068,2.359-8.603,2.58-13.162l-0.383-0.689C324.111,360.817,325.354,364.317,325.078,370.038L325.078,370.038z"
                             />
                             <path
-                                fill-rule="evenodd"
-                                clip-rule="evenodd"
+                                fillRule="evenodd"
+                                clipRule="evenodd"
                                 fill="#828282"
                                 d="M573.181,261.786c1.023-1.259,4.907-0.526,6.459-0.487
 				c2.052,0.051,4.343,0.361,6.283,0.177c-0.41-0.824-11.925-0.742-13.686-0.762l0.944,1.074L573.181,261.786z"
                             />
                             <path
-                                fill-rule="evenodd"
-                                clip-rule="evenodd"
+                                fillRule="evenodd"
+                                clipRule="evenodd"
                                 fill="#8B8B8B"
                                 d="M618.523,815.057c-0.724-0.705-0.353,0.726-0.601-1.288
 				c-0.017-0.13,0.097-1.542,0.118-1.762c0.125-1.302,0.278-2.071,0.16-3.32c-0.947,1.489-0.92,5.562-0.415,7.533l0.737-1.164
 				L618.523,815.057z"
                             />
                             <path
-                                fill-rule="evenodd"
-                                clip-rule="evenodd"
+                                fillRule="evenodd"
+                                clipRule="evenodd"
                                 fill="#7F8080"
                                 d="M108.656,887.92c1.023,0.871,0.242,0.461,1.784,0.641
 				l-0.033-3.927c-1.1,0.982-0.603,1.907-0.404,3.527C110.003,888.161,108.656,887.92,108.656,887.92z"
                             />
                             <path
-                                fill-rule="evenodd"
-                                clip-rule="evenodd"
+                                fillRule="evenodd"
+                                clipRule="evenodd"
                                 fill="#656565"
                                 d="M138.636,156.409l0.192-0.953l5.452,0.214
 				c-1.391-0.613-4.289-0.801-6.051-0.384L138.636,156.409L138.636,156.409z"
                             />
                             <path
-                                fill-rule="evenodd"
-                                clip-rule="evenodd"
+                                fillRule="evenodd"
+                                clipRule="evenodd"
                                 fill="#777777"
                                 d="M260.271,663.131l-4.907,0.017l-0.015-1.711
 				c-0.538,0.915-0.418,0.481-0.329,1.888l3.754,0.302c1.079-0.128-0.283,0.139,0.806-0.156c0.12-0.032,0.259-0.124,0.353-0.155
 				c0.093-0.032,0.226-0.121,0.338-0.184H260.271z"
                             />
                             <path
-                                fill-rule="evenodd"
-                                clip-rule="evenodd"
+                                fillRule="evenodd"
+                                clipRule="evenodd"
                                 fill="#6D6E6E"
                                 d="M263.067,112.264c-0.805-0.397-0.449,0.065-0.45-1.56
 				c-0.001-1.065,0.152-1.555,0.092-2.756c-0.647,1.35-0.527,3.286-0.539,5.128L263.067,112.264L263.067,112.264z"
                             />
                             <path
-                                fill-rule="evenodd"
-                                clip-rule="evenodd"
+                                fillRule="evenodd"
+                                clipRule="evenodd"
                                 fill="#787878"
                                 d="M160.001,759.097c-1.047-0.036-1.177,0.07-2.122,0.126
 				c-2.963,0.177-1.403,0.349-2.187-0.661l-0.391,0.971c1.578,0.343,3.547,0.188,4.7-0.436V759.097z"
                             />
                             <path
-                                fill-rule="evenodd"
-                                clip-rule="evenodd"
+                                fillRule="evenodd"
+                                clipRule="evenodd"
                                 fill="#959494"
                                 d="M731.661,373.518c0.016-0.985-0.168-1.442-0.167-2.181
 				c0.005-2.966-0.255-0.969,0.602-1.724l-1.013-0.68c-0.033,1.796-0.162,3.353,0.577,4.585H731.661z"
                             />
                             <path
-                                fill-rule="evenodd"
-                                clip-rule="evenodd"
+                                fillRule="evenodd"
+                                clipRule="evenodd"
                                 fill="#979797"
                                 d="M533.77,456.904c1.221,0.687,1.822,0.601,3.504,0.468
 				l-0.768-0.972c-0.691,1.035,0.256,0.321-0.974,0.529C535.527,456.929,533.97,456.902,533.77,456.904L533.77,456.904z"
                             />
                             <path
-                                fill-rule="evenodd"
-                                clip-rule="evenodd"
+                                fillRule="evenodd"
+                                clipRule="evenodd"
                                 fill="#828282"
                                 d="M531.591,892.248c-0.755-0.865-0.355-0.984-0.378-2.532
 				c-0.675,1.269-0.528,1.942-0.468,3.625L531.591,892.248L531.591,892.248z"
                             />
                             <path
-                                fill-rule="evenodd"
-                                clip-rule="evenodd"
+                                fillRule="evenodd"
+                                clipRule="evenodd"
                                 fill="#797979"
                                 d="M310.175,376.891c0.776-1.101,0.673-1.925,0.633-3.443
 				l-1.717,0.623l1.366-0.197L310.175,376.891L310.175,376.891z"
                             />
                             <path
-                                fill-rule="evenodd"
-                                clip-rule="evenodd"
+                                fillRule="evenodd"
+                                clipRule="evenodd"
                                 fill="#969696"
                                 d="M593.735,424.156c1.113,0.726,1.476,0.56,2.995,0.554
 				c-0.197-1.692,0.154-0.477-0.579-1.232c0.415,1.574,0.207,0.294-0.357,0.803L593.735,424.156z"
                             />
                             <path
-                                fill-rule="evenodd"
-                                clip-rule="evenodd"
+                                fillRule="evenodd"
+                                clipRule="evenodd"
                                 fill="#7D7D7D"
                                 d="M589.923,293.505c1.01,0.903,0.985,0.64,2.357,0.547
 				c-0.43-1.883-0.038-0.389-0.826-1.07C590.934,293.989,592.242,293.632,589.923,293.505L589.923,293.505z"
                             />
                             <polygon
-                                fill-rule="evenodd"
-                                clip-rule="evenodd"
+                                fillRule="evenodd"
+                                clipRule="evenodd"
                                 fill="#616262"
                                 points="447.796,911.216 448.729,912.294 448.701,910.751 
 				447.761,910.286 			"
                             />
                             <path
-                                fill-rule="evenodd"
-                                clip-rule="evenodd"
+                                fillRule="evenodd"
+                                clipRule="evenodd"
                                 fill="#767676"
                                 d="M171.869,666.693l0.621-3.386l-1.097,0.72
 				c0.927,0.531,0.262-0.24,0.442,0.844C171.845,664.929,171.86,666.479,171.869,666.693L171.869,666.693z"
                             />
                             <path
-                                fill-rule="evenodd"
-                                clip-rule="evenodd"
+                                fillRule="evenodd"
+                                clipRule="evenodd"
                                 fill="#A4A4A5"
                                 d="M285.426,431.57c-0.208-0.264-0.068,0.045-0.507-0.816
 				c-0.189-0.368-0.226-0.547-0.417-0.919l0.096,2.292c1.681,0.022,0.154,0.109,0.827-0.558V431.57z"
                             />
                             <path
-                                fill-rule="evenodd"
-                                clip-rule="evenodd"
+                                fillRule="evenodd"
+                                clipRule="evenodd"
                                 fill="#8B8A8A"
                                 d="M143.902,895.046c0.59-1.164,0.532-0.937,0.276-2.503
 				l-2.314-0.258l2.076,0.479L143.902,895.046L143.902,895.046z"
                             />
                             <path
-                                fill-rule="evenodd"
-                                clip-rule="evenodd"
+                                fillRule="evenodd"
+                                clipRule="evenodd"
                                 fill="#969696"
                                 d="M510.684,230.286c1.173,0.701,1.337,0.737,2.661,0.029
 				l-0.543-1.248l0.222,1.269L510.684,230.286L510.684,230.286z"
                             />
                             <path
-                                fill-rule="evenodd"
-                                clip-rule="evenodd"
+                                fillRule="evenodd"
+                                clipRule="evenodd"
                                 fill="#646464"
                                 d="M443.846,368.85c0.619-1.064,0.422-0.282,0.467-1.861
 				c-1.648,0.03-0.714-0.21-1.811,0.493l1.45-0.218L443.846,368.85L443.846,368.85z"
                             />
                             <path
-                                fill-rule="evenodd"
-                                clip-rule="evenodd"
+                                fillRule="evenodd"
+                                clipRule="evenodd"
                                 fill="#6D6E6E"
                                 d="M431.081,945.279l0.77-0.158
 				c-0.876-1.298,0.027-0.598-1.5-1.236L431.081,945.279z"
                             />
                             <path
-                                fill-rule="evenodd"
-                                clip-rule="evenodd"
+                                fillRule="evenodd"
+                                clipRule="evenodd"
                                 fill="#838384"
                                 d="M326.001,371.349l-0.922-1.31l0.152,1.754
 				C326.813,372.027,325.378,371.922,326.001,371.349L326.001,371.349z"
                             />
                             <path
-                                fill-rule="evenodd"
-                                clip-rule="evenodd"
+                                fillRule="evenodd"
+                                clipRule="evenodd"
                                 fill="#ACACAC"
                                 d="M258.645,392.352c0.438,0.899,0.195,0.599,1.026,0.992
 				c-0.279-1.99-0.242-0.923-0.627-1.374L258.645,392.352z"
                             />
                             <path
-                                fill-rule="evenodd"
-                                clip-rule="evenodd"
+                                fillRule="evenodd"
+                                clipRule="evenodd"
                                 fill="#A3A3A2"
                                 d="M765.222,407.236l0.478-0.491
 				c-0.468-0.597,0.473-0.214-0.878-0.778c-0.042,1.631,0.176,0.92,0.4,1.27V407.236z"
                             />
                             <path
-                                fill-rule="evenodd"
-                                clip-rule="evenodd"
+                                fillRule="evenodd"
+                                clipRule="evenodd"
                                 fill="#BCBCBC"
                                 d="M447.761,910.286l0.94,0.466
 				c-0.023-0.559,0.335-0.435-0.474-1.353l-0.467,0.888V910.286z"
                             />
                             <path
-                                fill-rule="evenodd"
-                                clip-rule="evenodd"
+                                fillRule="evenodd"
+                                clipRule="evenodd"
                                 fill="#6F7070"
                                 d="M297.15,177.853c-0.572-0.562-0.592,0.8-0.354-1.22
 				c-0.752,0.989-0.445,0.248-0.604,1.84L297.15,177.853z"
                             />
                             <path
-                                fill-rule="evenodd"
-                                clip-rule="evenodd"
+                                fillRule="evenodd"
+                                clipRule="evenodd"
                                 fill="#4E4E4E"
                                 d="M442.637,427.671l-1.185,0.215l0.425-1.363
 				c-0.896,0.839-0.51-0.061-0.76,1.768L442.637,427.671z"
                             />
                             <path
-                                fill-rule="evenodd"
-                                clip-rule="evenodd"
+                                fillRule="evenodd"
+                                clipRule="evenodd"
                                 fill="#959494"
                                 d="M747.165,441.295l-0.096,0.456
 				c0.692,0.818-1.198,0.387,1.141,0.734C747.709,441.549,747.691,441.721,747.165,441.295L747.165,441.295z"
                             />
                             <path
-                                fill-rule="evenodd"
-                                clip-rule="evenodd"
+                                fillRule="evenodd"
+                                clipRule="evenodd"
                                 fill="#575757"
                                 d="M451.704,802.289c-1.615,0.107-1.488,0.743-1.446-0.615
 				l-0.48,1.221c0.81-0.068,0.452,0.082,0.995-0.115C451.856,802.387,451.288,802.588,451.704,802.289L451.704,802.289z"
                             />
                             <path
-                                fill-rule="evenodd"
-                                clip-rule="evenodd"
+                                fillRule="evenodd"
+                                clipRule="evenodd"
                                 fill="#474747"
                                 d="M102.726,601.005l-0.352-0.801
 				c-0.57,0.835-0.873-1.199-0.341,1.289L102.726,601.005L102.726,601.005z"
                             />
                             <path
-                                fill-rule="evenodd"
-                                clip-rule="evenodd"
+                                fillRule="evenodd"
+                                clipRule="evenodd"
                                 fill="#787878"
                                 d="M695.713,332.334l0.07-0.756
 				c-0.164-0.115,0.888-1.098-0.801-0.022C695.182,332.501,695.236,331.866,695.713,332.334L695.713,332.334z"
                             />
                             <path
-                                fill-rule="evenodd"
-                                clip-rule="evenodd"
+                                fillRule="evenodd"
+                                clipRule="evenodd"
                                 fill="#A3A3A2"
                                 d="M500.068,430.759c-0.024-1.423-0.231-0.852,1.399-0.851
 				l-1.645-0.489C499.193,432.067,499.661,429.73,500.068,430.759z"
                             />
                             <path
-                                fill-rule="evenodd"
-                                clip-rule="evenodd"
+                                fillRule="evenodd"
+                                clipRule="evenodd"
                                 fill="#767676"
                                 d="M254.004,378.756c-0.376-1.783-0.318-0.58,0.253-1.164
 				l-0.785-0.687C253.518,378.629,253.144,377.637,254.004,378.756L254.004,378.756z"
                             />
                             <path
-                                fill-rule="evenodd"
-                                clip-rule="evenodd"
+                                fillRule="evenodd"
+                                clipRule="evenodd"
                                 fill="#7D7D7D"
                                 d="M277.109,355.245c-0.262-1.931-0.244-0.698,0.317-1.264
 				l-0.757-0.593c-0.046,1.72-0.332,0.694,0.439,1.857V355.245z"
                             />
                             <path
-                                fill-rule="evenodd"
-                                clip-rule="evenodd"
+                                fillRule="evenodd"
+                                clipRule="evenodd"
                                 fill="#B2B2B2"
                                 d="M700.999,741.174l-0.417-0.466
 				c-0.436,0.646-0.457-0.146-0.368,1.27C701.311,741.393,700.591,741.678,700.999,741.174L700.999,741.174z"
                             />
                             <path
-                                fill-rule="evenodd"
-                                clip-rule="evenodd"
+                                fillRule="evenodd"
+                                clipRule="evenodd"
                                 fill="#A5A5A5"
                                 d="M691.842,643.927l0.862,0.058l-0.233-1.141
 				C691.71,643.44,692.171,642.867,691.842,643.927L691.842,643.927z"
                             />
                             <polygon
-                                fill-rule="evenodd"
-                                clip-rule="evenodd"
+                                fillRule="evenodd"
+                                clipRule="evenodd"
                                 fill="#ACACAC"
                                 points="594.885,758.194 595.839,758.215 595.09,756.91 			"
                             />
                             <path
-                                fill-rule="evenodd"
-                                clip-rule="evenodd"
+                                fillRule="evenodd"
+                                clipRule="evenodd"
                                 fill="#C3C3C3"
                                 d="M390.195,959.243l0.084-0.477
 				c-0.354-0.253,0.854-1.231-0.882-0.139C389.936,959.97,389.338,958.607,390.195,959.243z"
                             />
                             <path
-                                fill-rule="evenodd"
-                                clip-rule="evenodd"
+                                fillRule="evenodd"
+                                clipRule="evenodd"
                                 fill="#919191"
                                 d="M515.972,606.809l-1.001-0.389l0.279,1.084
 				C516.572,607.036,515.361,607.48,515.972,606.809z"
                             />
                             <polygon
-                                fill-rule="evenodd"
-                                clip-rule="evenodd"
+                                fillRule="evenodd"
+                                clipRule="evenodd"
                                 fill="#5B5B5B"
                                 points="724.03,557.819 724.867,556.816 724.337,556.082 			"
                             />
                             <path
-                                fill-rule="evenodd"
-                                clip-rule="evenodd"
+                                fillRule="evenodd"
+                                clipRule="evenodd"
                                 fill="#6B6B6B"
                                 d="M334.645,921.612l1.177,0.333l0.262-1.228
 				C335.506,921.42,335.733,921.265,334.645,921.612z"
                             />
                             <path
-                                fill-rule="evenodd"
-                                clip-rule="evenodd"
+                                fillRule="evenodd"
+                                clipRule="evenodd"
                                 fill="#908F8F"
                                 d="M450.002,567.099c0.464-0.531,0.643,0.598,0.285-0.784
 				l-1.009-0.254C449.558,566.401,449.814,566.826,450.002,567.099z"
                             />
                             <path
-                                fill-rule="evenodd"
-                                clip-rule="evenodd"
+                                fillRule="evenodd"
+                                clipRule="evenodd"
                                 fill="#5E5E5E"
                                 d="M804.038,291.49l0.588-1.91l-0.998,0.659
 				C804.085,290.705,804.001,289.502,804.038,291.49L804.038,291.49z"
                             />
                             <polygon
-                                fill-rule="evenodd"
-                                clip-rule="evenodd"
+                                fillRule="evenodd"
+                                clipRule="evenodd"
                                 fill="#9A9A9A"
                                 points="308.168,93.278 308.818,94.247 309.011,92.873 			"
                             />
                             <path
-                                fill-rule="evenodd"
-                                clip-rule="evenodd"
+                                fillRule="evenodd"
+                                clipRule="evenodd"
                                 fill="#B2B2B2"
                                 d="M161.883,280.915l-0.187-0.404l-1.129,0.75
 				c2.176,0.133,0.798,0,1.316-0.345V280.915z"
                             />
                             <path
-                                fill-rule="evenodd"
-                                clip-rule="evenodd"
+                                fillRule="evenodd"
+                                clipRule="evenodd"
                                 fill="#969696"
                                 d="M738.966,679.006c0.006-2.253-0.13-0.867,0.423-1.43
 				l-0.89-0.746L738.966,679.006L738.966,679.006z"
                             />
                             <polygon
-                                fill-rule="evenodd"
-                                clip-rule="evenodd"
+                                fillRule="evenodd"
+                                clipRule="evenodd"
                                 fill="#6D6E6E"
                                 points="367.829,313.684 367.095,313.274 366.246,314.173 			
 				"
                             />
                             <path
-                                fill-rule="evenodd"
-                                clip-rule="evenodd"
+                                fillRule="evenodd"
+                                clipRule="evenodd"
                                 fill="#979797"
                                 d="M295.707,769.263l0.902,0.313l0.133-1.288
 				C295.597,769.86,296.716,768.459,295.707,769.263L295.707,769.263z"
                             />
                             <polygon
-                                fill-rule="evenodd"
-                                clip-rule="evenodd"
+                                fillRule="evenodd"
+                                clipRule="evenodd"
                                 fill="#939292"
                                 points="893.409,407.739 894.357,408.685 893.924,407.194 			
 				"
                             />
                             <path
-                                fill-rule="evenodd"
-                                clip-rule="evenodd"
+                                fillRule="evenodd"
+                                clipRule="evenodd"
                                 fill="#C3C3C3"
                                 d="M278.967,153.479l-0.522-0.323l-0.529,0.709
 				C280.08,154.238,278.155,154.038,278.967,153.479z"
                             />
                             <path
-                                fill-rule="evenodd"
-                                clip-rule="evenodd"
+                                fillRule="evenodd"
+                                clipRule="evenodd"
                                 fill="#656565"
                                 d="M178.619,824.786c-0.714,0-0.518,0.18-0.612-0.517l-0.497,0.993
 				C179.704,825.314,177.737,825.376,178.619,824.786L178.619,824.786z"
                             />
                             <path
-                                fill-rule="evenodd"
-                                clip-rule="evenodd"
+                                fillRule="evenodd"
+                                clipRule="evenodd"
                                 fill="#606060"
                                 d="M745.115,697.233c0.541-0.527,0.524-0.328,0.951-0.592
 				c-0.045-0.677,0.14-0.525-0.523-0.489L745.115,697.233L745.115,697.233z"
                             />
                             <path
-                                fill-rule="evenodd"
-                                clip-rule="evenodd"
+                                fillRule="evenodd"
+                                clipRule="evenodd"
                                 fill="#9B9B9B"
                                 d="M520.683,70.983c0.582-0.515,0.507,0.799,0.459-0.943
 				l-1.266,0.472C521.37,70.403,520.37,70.318,520.683,70.983z"
                             />
                             <path
-                                fill-rule="evenodd"
-                                clip-rule="evenodd"
+                                fillRule="evenodd"
+                                clipRule="evenodd"
                                 fill="#868686"
                                 d="M434.232,32.511c0.525-0.425,0.41-0.213,0.995-0.495
 				C435.058,30.493,434.339,32.242,434.232,32.511z"
                             />
                             <polygon
-                                fill-rule="evenodd"
-                                clip-rule="evenodd"
+                                fillRule="evenodd"
+                                clipRule="evenodd"
                                 fill="#8C8C8C"
                                 points="581.35,700.448 580.51,700.121 580.472,701.221 			"
                             />
                             <polygon
-                                fill-rule="evenodd"
-                                clip-rule="evenodd"
+                                fillRule="evenodd"
+                                clipRule="evenodd"
                                 fill="#9B9B9B"
                                 points="419.435,443.037 420.049,442.494 418.904,441.984 			
 				"
                             />
                             <polygon
-                                fill-rule="evenodd"
-                                clip-rule="evenodd"
+                                fillRule="evenodd"
+                                clipRule="evenodd"
                                 fill="#505050"
                                 points="328.58,358.187 329.16,356.794 328.197,357.498 			"
                             />
                             <path
-                                fill-rule="evenodd"
-                                clip-rule="evenodd"
+                                fillRule="evenodd"
+                                clipRule="evenodd"
                                 fill="#6D6E6E"
                                 d="M394.948,660.571c0.068-0.753-0.143-0.579,0.589-0.569
 				c-0.584-0.542,0.891-0.47-1.029-0.432L394.948,660.571z"
                             />
                             <path
-                                fill-rule="evenodd"
-                                clip-rule="evenodd"
+                                fillRule="evenodd"
+                                clipRule="evenodd"
                                 fill="#6D6E6E"
                                 d="M576.024,191.902l1,0.479c0.086-2.085,0.108-0.242-0.432-1.048
 				C576.636,192.05,576.788,191.828,576.024,191.902L576.024,191.902z"
                             />
                             <polygon
-                                fill-rule="evenodd"
-                                clip-rule="evenodd"
+                                fillRule="evenodd"
+                                clipRule="evenodd"
                                 fill="#6B6C6C"
                                 points="113.472,590.172 112.916,589.616 112.376,590.655 			
 				"
                             />
                             <path
-                                fill-rule="evenodd"
-                                clip-rule="evenodd"
+                                fillRule="evenodd"
+                                clipRule="evenodd"
                                 fill="#606060"
                                 d="M681.925,334.182l0.754,0.601
 				c0.024-2.069,0.124-0.258-0.436-1.048L681.925,334.182L681.925,334.182z"
                             />
                             <path
-                                fill-rule="evenodd"
-                                clip-rule="evenodd"
+                                fillRule="evenodd"
+                                clipRule="evenodd"
                                 fill="#9E9E9E"
                                 d="M513.764,782.74c-0.747-0.365-0.766,0.512-0.457-0.842
 				c-0.802,0.841-0.522-0.256-0.394,1.211L513.764,782.74L513.764,782.74z"
                             />
                             <path
-                                fill-rule="evenodd"
-                                clip-rule="evenodd"
+                                fillRule="evenodd"
+                                clipRule="evenodd"
                                 fill="#A5A5A5"
                                 d="M539.771,822.98c-0.869-0.01-0.715,0.246-0.717-0.5l-0.48,0.824
 				C540.97,823.582,538.823,823.432,539.771,822.98z"
                             />
                             <path
-                                fill-rule="evenodd"
-                                clip-rule="evenodd"
+                                fillRule="evenodd"
+                                clipRule="evenodd"
                                 fill="#505050"
                                 d="M793.059,412.412c0.521,0.576-0.806,0.512,0.95,0.45
 				l-0.444-0.933C793.545,412.603,793.722,412.45,793.059,412.412z"
                             />
                             <polygon
-                                fill-rule="evenodd"
-                                clip-rule="evenodd"
+                                fillRule="evenodd"
+                                clipRule="evenodd"
                                 fill="#767676"
                                 points="382.226,979.692 383.322,980.22 382.687,979.193 			"
                             />
                             <path
-                                fill-rule="evenodd"
-                                clip-rule="evenodd"
+                                fillRule="evenodd"
+                                clipRule="evenodd"
                                 fill="#767676"
                                 d="M360.974,482.912l0.528-1.126l-1.364,0.595
 				C361.686,482.237,360.569,482.142,360.974,482.912z"
                             />
                             <polygon
-                                fill-rule="evenodd"
-                                clip-rule="evenodd"
+                                fillRule="evenodd"
+                                clipRule="evenodd"
                                 fill="#6B6C6C"
                                 points="720.729,437.615 721.197,437.292 720.223,436.562 			
 				"
                             />
                             <polygon
-                                fill-rule="evenodd"
-                                clip-rule="evenodd"
+                                fillRule="evenodd"
+                                clipRule="evenodd"
                                 fill="#848484"
                                 points="690.159,478.283 690.999,478.964 690.54,477.836 			"
                             />
                             <polygon
-                                fill-rule="evenodd"
-                                clip-rule="evenodd"
+                                fillRule="evenodd"
+                                clipRule="evenodd"
                                 fill="#C1C0C0"
                                 points="528.095,856.666 528.729,855.467 527.768,856.297 			
 				"
                             />
                             <path
-                                fill-rule="evenodd"
-                                clip-rule="evenodd"
+                                fillRule="evenodd"
+                                clipRule="evenodd"
                                 fill="#7A7A7A"
                                 d="M350.921,388.896c0.546-0.156,0.328,0.149,0.471-0.359
 				c0.184-0.656,0.254-0.269-0.053-0.713L350.921,388.896L350.921,388.896z"
                             />
                             <polygon
-                                fill-rule="evenodd"
-                                clip-rule="evenodd"
+                                fillRule="evenodd"
+                                clipRule="evenodd"
                                 fill="#767676"
                                 points="277.563,67.583 278.079,66.503 277.249,67.095 			"
                             />
                             <polygon
-                                fill-rule="evenodd"
-                                clip-rule="evenodd"
+                                fillRule="evenodd"
+                                clipRule="evenodd"
                                 fill="#979797"
                                 points="675.653,488.093 675.979,487.685 675.163,486.91 			"
                             />
                             <polygon
-                                fill-rule="evenodd"
-                                clip-rule="evenodd"
+                                fillRule="evenodd"
+                                clipRule="evenodd"
                                 fill="#9C9C9D"
                                 points="638.209,327.233 638.573,326.875 637.589,326.234 			
 				"
                             />
                             <polygon
-                                fill-rule="evenodd"
-                                clip-rule="evenodd"
+                                fillRule="evenodd"
+                                clipRule="evenodd"
                                 fill="#7A7A7A"
                                 points="704.159,367.296 704.532,367.113 703.629,366.301 			
 				"
                             />
                             <polygon
-                                fill-rule="evenodd"
-                                clip-rule="evenodd"
+                                fillRule="evenodd"
+                                clipRule="evenodd"
                                 fill="#404040"
                                 points="791.405,482.327 791.704,481.986 790.972,481.309 			
 				"
                             />
                             <polygon
-                                fill-rule="evenodd"
-                                clip-rule="evenodd"
+                                fillRule="evenodd"
+                                clipRule="evenodd"
                                 fill="#9E9E9E"
                                 points="283.127,908.399 283.743,907.588 282.786,908.222 			
 				"
                             />
                             <polygon
-                                fill-rule="evenodd"
-                                clip-rule="evenodd"
+                                fillRule="evenodd"
+                                clipRule="evenodd"
                                 fill="#8B8A8A"
                                 points="811.646,363.355 811.885,363.119 810.91,362.507 			"
                             />
                             <path
-                                fill-rule="evenodd"
-                                clip-rule="evenodd"
+                                fillRule="evenodd"
+                                clipRule="evenodd"
                                 fill="#454545"
                                 d="M376.631,972.771l0.06-0.634L376.631,972.771z"
                             />
